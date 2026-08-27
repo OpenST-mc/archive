@@ -27,16 +27,16 @@
   "YAMS V2.3 MB 1.20": {
     "category": "其他杂物/仓库成品",
     "files": [
+      "YAMS V2.3 MB 1.20[仓库成品].litematic",
       "info.json",
-      "preview.webp",
-      "YAMS V2.3 MB 1.20[仓库成品].litematic"
+      "preview.webp"
     ]
   },
   "luckeY MS": {
     "category": "其他杂物/仓库成品",
     "files": [
-      "info.json",
       "MS001_luckeY_Main_Storage[[仓库成品]].litematic",
+      "info.json",
       "preview.webp"
     ]
   },
@@ -52,17 +52,17 @@
   "双边沿无延迟强模链": {
     "category": "其他杂物",
     "files": [
+      "[12gt]双边沿无延迟强模链[编码相关].litematic",
       "info.json",
-      "preview.webp",
-      "[12gt]双边沿无延迟强模链[编码相关].litematic"
+      "preview.webp"
     ]
   },
   "SBCL_NE-Kahyxen": {
     "category": "其他杂物/地狱门加载器",
     "files": [
+      "SBCL_NE-Kahyxen[地狱门加载器].litematic",
       "info.json",
-      "preview.webp",
-      "SBCL_NE-Kahyxen[地狱门加载器].litematic"
+      "preview.webp"
     ]
   },
   "【无实体地狱门加载器 主世界】": {
@@ -116,8 +116,8 @@
   "物品地狱门加载器 1.19＋": {
     "category": "其他杂物/地狱门加载器",
     "files": [
-      "info.json",
       "Item_Chunkloader_1.19[地狱门加载器].litematic",
+      "info.json",
       "preview.webp"
     ]
   },
@@ -190,9 +190,9 @@
   "全锁无实体输入 1.12": {
     "category": "其他杂物/无实体输入",
     "files": [
+      "SIS无实体输入系列.zip",
       "info.json",
-      "preview.webp",
-      "SIS无实体输入系列.zip"
+      "preview.webp"
     ]
   },
   "无实体输入 V3": {
@@ -207,8 +207,8 @@
   "终极全物品输入 v5": {
     "category": "其他杂物/无实体输入",
     "files": [
-      "info.json",
       "PI002_Ultimate_Storage_Input_v5[SIS无实体输入].litematic",
+      "info.json",
       "preview.webp"
     ]
   },
@@ -231,9 +231,9 @@
   "盒子寄存信号发生器 by obi": {
     "category": "其他杂物",
     "files": [
+      "[盒子寄存信号发生器] by obi[编码相关].litematic",
       "info.json",
-      "preview.webp",
-      "[盒子寄存信号发生器] by obi[编码相关].litematic"
+      "preview.webp"
     ]
   },
   "竖式移位寄存器": {
@@ -263,8 +263,8 @@
   "非矿车 Mis_V5.1": {
     "category": "其他杂物",
     "files": [
-      "info.json",
       "Mis_V5.1[MIS多物品分类].litematic",
+      "info.json",
       "preview.webp"
     ]
   },
@@ -331,8 +331,8 @@
   "Ners自解锁潜影盒分类": {
     "category": "潜影盒处理/潜影盒分类相关",
     "files": [
-      "info.json",
       "Ners自解锁盒子分类相关.zip",
+      "info.json",
       "preview.png",
       "preview.webp"
     ]
@@ -358,10 +358,10 @@
   "Tom自出盒细雪展示": {
     "category": "潜影盒处理/潜影盒展示",
     "files": [
+      "Tom自出盒细雪展示.litematic",
       "info.json",
       "preview.png",
-      "preview.webp",
-      "Tom自出盒细雪展示.litematic"
+      "preview.webp"
     ]
   },
   "三水无残留自出潜影盒展示": {
@@ -409,9 +409,9 @@
   "Variable Filter V2.1b-r4": {
     "category": "潜影盒处理/潜影盒打包机",
     "files": [
+      "Variable Filter V2.1b-r4[打包机][自适应打包机].zip",
       "info.json",
-      "preview.webp",
-      "Variable Filter V2.1b-r4[打包机][自适应打包机].zip"
+      "preview.webp"
     ]
   },
   "全局重置自适应打包机 v4.4": {
@@ -526,9 +526,9 @@
   "盒子解码转串行二进制 4gt 26bit": {
     "category": "编码存储科技/编码器",
     "files": [
+      "[盒子解码转串行二进制 4gt 26bit][编码相关].litematic",
       "info.json",
-      "preview.webp",
-      "[盒子解码转串行二进制 4gt 26bit][编码相关].litematic"
+      "preview.webp"
     ]
   },
   "4线四边形大宗": {
@@ -566,8 +566,8 @@
   "小型远程大宗": {
     "category": "编码存储科技/编码大宗仓库",
     "files": [
-      "info.json",
       "Lu mini bulk.litematic",
+      "info.json",
       "preview.png",
       "preview.webp"
     ]
@@ -608,18 +608,18 @@
   "PyraLeft 1.20 不可堆叠分类": {
     "category": "非编码存储科技/不可堆叠相关",
     "files": [
+      "PyraLeft_1.20_Unstackable_Sorter_FHL(1)[不可堆叠分类].litematic",
       "info.json",
       "preview.png",
-      "preview.webp",
-      "PyraLeft_1.20_Unstackable_Sorter_FHL(1)[不可堆叠分类].litematic"
+      "preview.webp"
     ]
   },
   "PyraLeft_TIS_3w": {
     "category": "非编码存储科技/全物品单片",
     "files": [
+      "PyraLeft_TIS_3w[全物品单片].litematic",
       "info.json",
-      "preview.webp",
-      "PyraLeft_TIS_3w[全物品单片].litematic"
+      "preview.webp"
     ]
   },
   "分整流编码双容器全物品主体": {
