@@ -11,7 +11,7 @@
       "编码大宗仓库"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将大宗盒子送入远程相应码的单片内储存，减少了客户端渲染卡顿\n- **投影创建者**：lucas_aaa123\n- **创建时间**：2025-09-08\n- **适用版本**: Java 1.16+\n\n### 📖 使用说明\n1. 此大宗为单线程，需搭配线程优先级+编码器使用\n2. 无法自由扩片，相同的码需挨在一起才能扩片\n\n> 提示：单片可横向堆叠",
-    "preview": "大宗仓库/小型远程大宗/preview.webp",
+    "preview": "编码存储科技/小型远程大宗/preview.webp",
     "filename": "Lu mini bulk.litematic",
     "sub_id": "sub-1777730271855"
   },
@@ -27,7 +27,7 @@
       "远程大宗"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 一个双线程的二进制远程大宗，计时54个物品后上锁，支持四边形输出。不支持分组输入\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Skmiro\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 输出需搭配大宗近端使用，输入时需搭配编码器使用",
-    "preview": "大宗仓库/Elk_Remote_Bulk/preview.webp",
+    "preview": "编码存储科技/Elk_Remote_Bulk/preview.webp",
     "filename": "Elk_Remote_Bulk[编码相关][远程大宗].litematic",
     "sub_id": "sub-1778344851023-355"
   },
@@ -43,7 +43,7 @@
       "编码大宗仓库"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 单线程的远程大宗，计数器计数54个物品后上锁。支持四边形输出，修改后可支持分组输入\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: linchien26\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 使用时**必须**搭配线程优先级，大宗近端，编码器使用",
-    "preview": "大宗仓库/Encoded Bulk v1.1 by linchien26/preview.webp",
+    "preview": "编码存储科技/Encoded Bulk v1.1 by linchien26/preview.webp",
     "filename": "Encoded Bulk v1.1 by linchien26[编码相关][远程大宗].litematic",
     "sub_id": "sub-1778344851026-304"
   },
@@ -59,7 +59,7 @@
       "编码大宗"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 一个双线程的二进制远程大宗，计时54个物品后上锁，支持四边形输出。不支持分组输入\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Trice054\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 输出需搭配大宗近端使用，输入时需搭配编码器使用",
-    "preview": "大宗仓库/remote_bulk_final/preview.webp",
+    "preview": "编码存储科技/remote_bulk_final/preview.webp",
     "filename": "remote_bulk_final[编码相关][远程大宗].litematic",
     "sub_id": "sub-1778344851077-877"
   }
