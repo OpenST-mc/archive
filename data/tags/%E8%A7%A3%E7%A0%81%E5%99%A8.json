@@ -9,7 +9,8 @@
       "二进制"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将对应的二进制码对应，并激活\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: floppydonkeyni\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 车头左侧为左右区分，0为左，1为右",
-    "preview": "编码存储科技/1.13＋ 6-7bit floppy解码器/preview.webp",
+    "category": "编码存储科技/编码器",
+    "preview": "/content/编码存储科技/编码器/1.13＋ 6-7bit floppy解码器/preview.webp",
     "filename": "1.13_6_and_7_Bit_Rail_Bud_Decoders[解码器].litematic",
     "sub_id": "sub-1778344850969-309"
   },
@@ -23,7 +24,8 @@
       "二进制"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 时差解码，如果码正确，铁轨有1gt窗口的时间被侦测器检测。反之则常量\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "preview": "编码存储科技/4位2进制解码器4BitBinaryDecoder/preview.webp",
+    "category": "编码存储科技/编码器",
+    "preview": "/content/编码存储科技/编码器/4位2进制解码器4BitBinaryDecoder/preview.webp",
     "filename": "4位2进制解码器4BitBinaryDecoder[解码器].litematic",
     "sub_id": "sub-1778344851007-896"
   },
@@ -37,7 +39,8 @@
       "二进制"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 通过qc投掷器进行解码，如果时差相同，则投掷器被激活。反之则不激活\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "preview": "编码存储科技/4bit二进制无状态解码4bit-timing-decoder-dropper-output/preview.webp",
+    "category": "编码存储科技/编码器",
+    "preview": "/content/编码存储科技/编码器/4bit二进制无状态解码4bit-timing-decoder-dropper-output/preview.webp",
     "filename": "4bit二进制无状态解码4bit-timing-decoder-dropper-output[解码器].litematic",
     "sub_id": "sub-1778344851002-103"
   },
@@ -52,7 +55,8 @@
       "二进制"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 手动输入码后转成解码器能解码的二进制输入\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: ionstrin\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "preview": "编码存储科技/stolen_smol_transcoder/preview.webp",
+    "category": "编码存储科技/编码器",
+    "preview": "/content/编码存储科技/编码器/stolen_smol_transcoder/preview.webp",
     "filename": "stolen_smol_transcoder[编码相关].litematic",
     "sub_id": "sub-1778344851083-317"
   }

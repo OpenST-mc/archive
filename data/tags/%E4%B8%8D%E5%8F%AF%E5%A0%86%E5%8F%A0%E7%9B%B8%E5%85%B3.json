@@ -9,7 +9,8 @@
       "1.20.x"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
-    "preview": "非编码存储科技/1.20＋全锁不可堆叠打包套装v2.0 by 77 and Breeze/preview.webp",
+    "category": "非编码存储科技/不可堆叠相关",
+    "preview": "/content/非编码存储科技/不可堆叠相关/1.20＋全锁不可堆叠打包套装v2.0 by 77 and Breeze/preview.webp",
     "filename": "1.20+全锁不可堆叠打包套装v2.0 by 77 & Breeze[不可堆叠分类].litematic",
     "sub_id": "sub-1778344850984-889"
   },
@@ -23,7 +24,8 @@
       "不可堆叠相关"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: \n以 8gt 循环速度分离出不可堆叠物品，体积小巧，矿车填充足6个即可循环。\n\n- **适用版本**: Java 1.19+\n- **投影创建者**：ZiYe__ZeroTwo \n- **投影创建时间**：2026-02-27\n\n### 📖 使用说明\n1. 输入物品时需注意实体位置：应处于压力板中央部分或偏向红石粉侧。\n2. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "preview": "非编码存储科技/3_6_5防随机不可堆叠分离/preview.webp",
+    "category": "非编码存储科技/不可堆叠相关",
+    "preview": "/content/非编码存储科技/不可堆叠相关/3_6_5防随机不可堆叠分离/preview.webp",
     "filename": "365不可堆叠分离v1.3.litematic",
     "sub_id": "sub-1772765742396"
   },
@@ -37,7 +39,8 @@
       "1.20.x"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将不可堆叠分类，并根据种类送入相应的容器内\n- **适用版本**: Java 1.20+\n- **投影创建者名称**: Beggar_boss\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "preview": "非编码存储科技/77_不可堆叠分类v3.0/preview.webp",
+    "category": "非编码存储科技/不可堆叠相关",
+    "preview": "/content/非编码存储科技/不可堆叠相关/77_不可堆叠分类v3.0/preview.webp",
     "filename": "77_不可堆叠分类v3.0[不可堆叠分类].litematic",
     "sub_id": "sub-1778344851012-814"
   },
@@ -51,7 +54,8 @@
       "1.20.x"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将不可堆叠分类，并根据种类送入相应的容器内\n- **适用版本**: Java 1.20+\n- **投影创建者名称**: CommandLeo\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "preview": "非编码存储科技/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide/preview.webp",
+    "category": "非编码存储科技/不可堆叠相关",
+    "preview": "/content/非编码存储科技/不可堆叠相关/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide/preview.webp",
     "filename": "CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide[不可堆叠分类].litematic",
     "sub_id": "sub-1778344851021-846"
   },
@@ -65,7 +69,8 @@
       "1.20.x"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将不可堆叠分类，并根据种类送入相应的容器内\n- **适用版本**: Java 1.20+\n- **投影创建者名称**: PyraLeft \n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n",
-    "preview": "非编码存储科技/PyraLeft 1.20 不可堆叠分类/preview.webp",
+    "category": "非编码存储科技/不可堆叠相关",
+    "preview": "/content/非编码存储科技/不可堆叠相关/PyraLeft 1.20 不可堆叠分类/preview.webp",
     "filename": "PyraLeft_1.20_Unstackable_Sorter_FHL(1)[不可堆叠分类].litematic",
     "sub_id": "sub-1778344851072-585"
   }
