@@ -1,0 +1,15 @@
+{
+  "name": "openst-archive",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OpenST 稿件数据库（由 website 仓库带历史迁移而来）",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "dependencies": {
+    "sharp": "^0.34.5"
+  },
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  }
+}

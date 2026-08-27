@@ -1,0 +1,51 @@
+name: Build Archive Index
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/info.json'
+      - '**/preview.*'
+      - '**/*.litematic'
+      - '**/*.zip'
+      - 'scripts/**'
+      - 'package.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Rebuild Index & Previews
+        run: node scripts/build.js
+
+      - name: Commit Artifacts
+        id: autocommit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: 自动重建索引与预览图 [skip ci]"
+          file_pattern: '_meta/** data/** **/preview.webp'
+
+      # 仅在产物有实际变更时通知网站库更新子模块指针并部署
+      - name: Dispatch Website Update
+        if: steps.autocommit.outputs.changes_detected == 'true'
+        run: |
+          curl -sSf -X POST \
+            -H "Authorization: Bearer ${{ secrets.SITE_DISPATCH_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/OpenST-mc/website/dispatches \
+            -d '{"event_type":"archive-update","client_payload":{"repo":"${{ github.repository }}","sha":"${{ github.sha }}"}}'
