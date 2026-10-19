@@ -1,6 +1,6 @@
 [
   {
-    "id": "1.13＋ 6-7bit floppy解码器",
+    "id": "sub-1778344850969-309",
     "name": "1.13＋ 6-7bit floppy解码器",
     "author": "Floppy",
     "tags": [
@@ -9,13 +9,14 @@
       "二进制"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将对应的二进制码对应，并激活\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: floppydonkeyni\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 车头左侧为左右区分，0为左，1为右",
-    "category": "编码存储科技/编码器",
-    "preview": "/content/编码存储科技/编码器/1.13＋ 6-7bit floppy解码器/preview.webp",
+    "category": "编码存储科技/解码器/二进制",
+    "preview": "/content/编码存储科技/解码器/二进制/1.13＋ 6-7bit floppy解码器/preview.webp",
+    "thumb": "/content/编码存储科技/解码器/二进制/1.13＋ 6-7bit floppy解码器/thumb.webp",
     "filename": "1.13_6_and_7_Bit_Rail_Bud_Decoders[解码器].litematic",
-    "sub_id": "sub-1778344850969-309"
+    "sha256": "75e93d3f1ce524d8eecc4bf375f3227a95d5a4de1549d2c2f62d69d5c917896f"
   },
   {
-    "id": "4位2进制解码器4BitBinaryDecoder",
+    "id": "sub-1778344851007-896",
     "name": "4位2进制crain解码器",
     "author": "Unknown",
     "tags": [
@@ -24,13 +25,14 @@
       "二进制"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 时差解码，如果码正确，铁轨有1gt窗口的时间被侦测器检测。反之则常量\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "category": "编码存储科技/编码器",
-    "preview": "/content/编码存储科技/编码器/4位2进制解码器4BitBinaryDecoder/preview.webp",
+    "category": "编码存储科技/解码器/二进制",
+    "preview": "/content/编码存储科技/解码器/二进制/4位2进制解码器4BitBinaryDecoder/preview.webp",
+    "thumb": "/content/编码存储科技/解码器/二进制/4位2进制解码器4BitBinaryDecoder/thumb.webp",
     "filename": "4位2进制解码器4BitBinaryDecoder[解码器].litematic",
-    "sub_id": "sub-1778344851007-896"
+    "sha256": "d12d53ce70a3a9d2b32336b87d2acd3ba7d4ef1d3e5161c992c27c5d062777ca"
   },
   {
-    "id": "4bit二进制无状态解码4bit-timing-decoder-dropper-output",
+    "id": "sub-1778344851002-103",
     "name": "4bit二进制无状态解码（Dream解码器）",
     "author": "Unknown",
     "tags": [
@@ -39,13 +41,14 @@
       "二进制"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 通过qc投掷器进行解码，如果时差相同，则投掷器被激活。反之则不激活\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "category": "编码存储科技/编码器",
-    "preview": "/content/编码存储科技/编码器/4bit二进制无状态解码4bit-timing-decoder-dropper-output/preview.webp",
+    "category": "编码存储科技/解码器/二进制",
+    "preview": "/content/编码存储科技/解码器/二进制/4bit二进制无状态解码4bit-timing-decoder-dropper-output/preview.webp",
+    "thumb": "/content/编码存储科技/解码器/二进制/4bit二进制无状态解码4bit-timing-decoder-dropper-output/thumb.webp",
     "filename": "4bit二进制无状态解码4bit-timing-decoder-dropper-output[解码器].litematic",
-    "sub_id": "sub-1778344851002-103"
+    "sha256": "7f140541717de2302d7487100a7dffdaf565ce687ce26a60e301f4e46a734112"
   },
   {
-    "id": "8bit 二进制安全编码器",
+    "id": "sub-1777730636323",
     "name": "[1.16+] 8bit 二进制安全编码器",
     "author": "30",
     "tags": [
@@ -54,13 +57,14 @@
       "编码器"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**:  \n将物品/盒子转成8位的二进制码\n- **适用版本**: Java 1.16+\n- **投影创建者**：Xiyeye_Jay30\n- **投影创建时间**：2024-09-19\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装\n2. 编码器可自由缩短/加长。请为此注意每一片的充能\n\n> 提示：本机器拥有安全性保护",
-    "category": "编码存储科技/编码器",
-    "preview": "/content/编码存储科技/编码器/8bit 二进制安全编码器/preview.webp",
+    "category": "编码存储科技/编码器/二进制",
+    "preview": "/content/编码存储科技/编码器/二进制/8bit 二进制安全编码器/preview.webp",
+    "thumb": "/content/编码存储科技/编码器/二进制/8bit 二进制安全编码器/thumb.webp",
     "filename": "八位二进制安全编码器--By.30.litematic",
-    "sub_id": "sub-1777730636323"
+    "sha256": "ce096344241598d36ba756341c180bd2c41c1785765525499d0176eae6a8a102"
   },
   {
-    "id": "盒子解码转串行二进制 4gt 26bit",
+    "id": "sub-1778344851119-130",
     "name": "盒子解码转串行二进制 4gt 26bit",
     "author": "Unknown",
     "tags": [
@@ -68,13 +72,14 @@
       "二进制"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
-    "category": "编码存储科技/编码器",
-    "preview": "/content/编码存储科技/编码器/盒子解码转串行二进制 4gt 26bit/preview.webp",
+    "category": "编码存储科技/编码器/二进制",
+    "preview": "/content/编码存储科技/编码器/二进制/盒子解码转串行二进制 4gt 26bit/preview.webp",
+    "thumb": "/content/编码存储科技/编码器/二进制/盒子解码转串行二进制 4gt 26bit/thumb.webp",
     "filename": "[盒子解码转串行二进制 4gt 26bit][编码相关].litematic",
-    "sub_id": "sub-1778344851119-130"
+    "sha256": "0cdc564917d9ad06a5ef3d2ee0ac878473ee4cab625dfc6f708edf5c9e2c1147"
   },
   {
-    "id": "小型远程大宗",
+    "id": "sub-1777730271855",
     "name": "[1.16+] 小型远程大宗",
     "author": "LU",
     "tags": [
@@ -85,13 +90,14 @@
       "编码大宗仓库"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将大宗盒子送入远程相应码的单片内储存，减少了客户端渲染卡顿\n- **投影创建者**：lucas_aaa123\n- **创建时间**：2025-09-08\n- **适用版本**: Java 1.16+\n\n### 📖 使用说明\n1. 此大宗为单线程，需搭配线程优先级+编码器使用\n2. 无法自由扩片，相同的码需挨在一起才能扩片\n\n> 提示：单片可横向堆叠",
-    "category": "编码存储科技/编码大宗仓库",
-    "preview": "/content/编码存储科技/编码大宗仓库/小型远程大宗/preview.webp",
+    "category": "编码存储科技/编码大宗仓库/编码大宗",
+    "preview": "/content/编码存储科技/编码大宗仓库/编码大宗/小型远程大宗/preview.webp",
+    "thumb": "/content/编码存储科技/编码大宗仓库/编码大宗/小型远程大宗/thumb.webp",
     "filename": "Lu mini bulk.litematic",
-    "sub_id": "sub-1777730271855"
+    "sha256": "b0af1dc834da8e73b55a94e1aab4282e7ba4b81c015976115f8b1f8c0f2b65f8"
   },
   {
-    "id": "Obi 10bit 安全二进制编码器",
+    "id": "sub-1774559620756",
     "name": "【1.16+】Obi 10bit 安全二进制编码器",
     "author": "Obi",
     "tags": [
@@ -101,13 +107,14 @@
       "编码器"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**:  \n将物品转成10位的二进制码\n- **适用版本**: Java 1.16+\n- **投影创建者**：Obi81\n- **投影创建时间**：2023-05-18\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装\n2. 编码器可自由缩短/加长。请为此注意每一片的充能\n\n> 提示：本机器拥有安全性保护",
-    "category": "编码存储科技/编码器",
-    "preview": "/content/编码存储科技/编码器/Obi 10bit 安全二进制编码器/preview.webp",
+    "category": "编码存储科技/编码器/二进制",
+    "preview": "/content/编码存储科技/编码器/二进制/Obi 10bit 安全二进制编码器/preview.webp",
+    "thumb": "/content/编码存储科技/编码器/二进制/Obi 10bit 安全二进制编码器/thumb.webp",
     "filename": "EC06_Item_to_Binary_Encoder_With_Safety_Features.litematic",
-    "sub_id": "sub-1774559620756"
+    "sha256": "4b1bc143bb2cc029df8b3048e7255ef63355876858e6db8dc7659e1a39054737"
   },
   {
-    "id": "stolen_smol_transcoder",
+    "id": "sub-1778344851083-317",
     "name": "二进制车头（转码器）",
     "author": "in",
     "tags": [
@@ -117,9 +124,10 @@
       "二进制"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 手动输入码后转成解码器能解码的二进制输入\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: ionstrin\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "category": "编码存储科技/编码器",
-    "preview": "/content/编码存储科技/编码器/stolen_smol_transcoder/preview.webp",
+    "category": "编码存储科技/解码器/二进制",
+    "preview": "/content/编码存储科技/解码器/二进制/stolen_smol_transcoder/preview.webp",
+    "thumb": "/content/编码存储科技/解码器/二进制/stolen_smol_transcoder/thumb.webp",
     "filename": "stolen_smol_transcoder[编码相关].litematic",
-    "sub_id": "sub-1778344851083-317"
+    "sha256": "cd2b297c4cc93d6ca4533be656890f70f5051909f607811f75921e5fef8ebd1f"
   }
 ]

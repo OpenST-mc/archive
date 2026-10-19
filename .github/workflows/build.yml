@@ -5,15 +5,26 @@ on:
       - main
     paths:
       - '**/info.json'
+      - '**/.meta.json'
       - '**/preview.*'
       - '**/*.litematic'
       - '**/*.zip'
+      - '**/*.rar'
       - 'scripts/**'
       - 'package.json'
   workflow_dispatch:
+    inputs:
+      force_images:
+        description: '强制重建全部预览图与缩略图（忽略 _meta/image-cache.json 的内容哈希缓存）'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
+
+concurrency:
+  group: archive-build
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -29,16 +40,20 @@ jobs:
 
       - name: Install Dependencies
         run: npm install --no-audit --no-fund
+      - name: Force Rebuild Images
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.force_images == 'true'
+        run: rm -f _meta/image-cache.json
 
-      - name: Rebuild Index & Previews
+      # .meta.json（稳定 id / 存档 sha256）、标签落位、预览图 / 缩略图、索引
+      - name: Rebuild Metas, Placements, Images & Indexes
         run: node scripts/build.js
 
       - name: Commit Artifacts
         id: autocommit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: 自动重建索引与预览图 [skip ci]"
-          file_pattern: '_meta/** data/** **/preview.webp'
+          commit_message: "chore: 自动重建元数据、索引与图片 [skip ci]"
+          # 预览图 / 缩略图、_meta/image-cache.json 与索引）
 
       # 仅在产物有实际变更时通知网站库更新子模块指针并部署
       - name: Dispatch Website Update

@@ -1,6 +1,6 @@
 [
   {
-    "id": "8倍速自适应计数堆分打包",
+    "id": "sub-1777770150840",
     "name": "【1.19+】8倍速自适应计数堆分打包",
     "author": "漾绅",
     "tags": [
@@ -9,13 +9,14 @@
       "1.19+"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 全物品大宗物品分流后的打包输出\n- **适用版本**: Java 1.19+\n- **投影创建者名称**:Young_cer\n- **投影创建时间**:2026-4-28\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装\n2.主控内置满盒/不满盒二分仪，带缺盒上锁保护并警报\n3. 单片漏斗全锁，检测主控一个装满漏斗矿车的漏斗是否装满能够被比较器检测到15信号，发车即小于15信号解锁，单片工作完返还完漏斗矿车上锁",
-    "category": "潜影盒处理/潜影盒打包机",
-    "preview": "/content/潜影盒处理/潜影盒打包机/8倍速自适应计数堆分打包/preview.webp",
+    "category": "潜影盒处理/潜影盒打包机/自适应打包",
+    "preview": "/content/潜影盒处理/潜影盒打包机/自适应打包/8倍速自适应计数堆分打包/preview.webp",
+    "thumb": "/content/潜影盒处理/潜影盒打包机/自适应打包/8倍速自适应计数堆分打包/thumb.webp",
     "filename": "8倍速自适应计数堆分打包 By 漾绅.litematic",
-    "sub_id": "sub-1777770150840"
+    "sha256": "ce7c3a0b17762f5e1f24934141aa98d9f815515e7d8773fd31d282a081f4bca0"
   },
   {
-    "id": "全局重置自适应打包机 v4.4",
+    "id": "sub-1778344851036-569",
     "name": "全局重置自适应打包机 v4.4",
     "author": "HEIlZMaker，vltir，JayRoi，Floppy，Maidofmoss，eirik",
     "tags": [
@@ -24,13 +25,14 @@
       "自适应打包"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 自适应分类，有物品的时候分类从ss1变成ss2，当长时间无物品输入后全局从ss2降至ss1，直至所有打包机无分类物为止自动打盒\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n> 注：本机器单片可2wt堆叠，本身伪1wt",
-    "category": "潜影盒处理/潜影盒打包机",
-    "preview": "/content/潜影盒处理/潜影盒打包机/全局重置自适应打包机 v4.4/preview.webp",
+    "category": "潜影盒处理/潜影盒打包机/自适应打包",
+    "preview": "/content/潜影盒处理/潜影盒打包机/自适应打包/全局重置自适应打包机 v4.4/preview.webp",
+    "thumb": "/content/潜影盒处理/潜影盒打包机/自适应打包/全局重置自适应打包机 v4.4/thumb.webp",
     "filename": "Global reset variable loader 4.4[打包机][自适应打包机].litematic",
-    "sub_id": "sub-1778344851036-569"
+    "sha256": "f4158f7056d0807672ee765483d63ee70ba4f358313bacfde654ded495cc7866"
   },
   {
-    "id": "Variable Filter V2.1b-r4",
+    "id": "sub-1778344851090-192",
     "name": "自适应打包机 V2.1b-r4",
     "author": "Andrews54757",
     "tags": [
@@ -39,9 +41,10 @@
       "自适应打包"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 自适应分类打包，一段时间内无任何输入将自动下漏分类物，后打盒\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Andrews54757\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "category": "潜影盒处理/潜影盒打包机",
-    "preview": "/content/潜影盒处理/潜影盒打包机/Variable Filter V2.1b-r4/preview.webp",
+    "category": "潜影盒处理/潜影盒打包机/自适应打包",
+    "preview": "/content/潜影盒处理/潜影盒打包机/自适应打包/Variable Filter V2.1b-r4/preview.webp",
+    "thumb": "/content/潜影盒处理/潜影盒打包机/自适应打包/Variable Filter V2.1b-r4/thumb.webp",
     "filename": "Variable Filter V2.1b-r4[打包机][自适应打包机].zip",
-    "sub_id": "sub-1778344851090-192"
+    "sha256": "3eaf55d3d69407c65f5a18633a7586a56581ffe05111a8d068f8ebb20e69fa96"
   }
 ]

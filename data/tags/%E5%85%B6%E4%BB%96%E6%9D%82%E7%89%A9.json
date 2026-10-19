@@ -1,6 +1,6 @@
 [
   {
-    "id": "【无延迟强模信号传输】",
+    "id": "sub-1778344851127-192",
     "name": "无延迟强模信号传输",
     "author": "Unknown",
     "tags": [
@@ -10,11 +10,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 将强模信号（大于15的信号）无延迟的传输\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
     "category": "其他杂物",
     "preview": "/content/其他杂物/【无延迟强模信号传输】/preview.webp",
+    "thumb": "/content/其他杂物/【无延迟强模信号传输】/thumb.webp",
     "filename": "【无延迟强模信号传输】[编码相关].litematic",
-    "sub_id": "sub-1778344851127-192"
+    "sha256": "d77a3eef585902c30cac78fb4e52348144b796491d03cb553c094fc95d60ef71"
   },
   {
-    "id": "1.16＋自适应均分不满盒暂存v1.2",
+    "id": "sub-1778344850978-107",
     "name": "1.16＋自适应均分不满盒暂存v1.2",
     "author": "77 & vincent & in",
     "tags": [
@@ -24,13 +25,14 @@
       "合并器相关"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 优先缓存至盒子数量少的单元能缩短搜索配对所需要的时间，该机器在缓存单元和主控都内置了计数器来实现伪均分\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: vincent20080201\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 激活指定位置解锁漏斗后输入需缓存/配对的不满盒，若缓存内无该同种盒子则自动存入，有则配对输出；\n3. 缓存容量上限为312盒(26*12)，满后会将溢出的盒子自动排出；\n4. 暂停：拉上黄色混凝土方块的拉杆以停止继续输入；\n5. 可旋转，但镜像需更换单片中大箱子的朝向\n6 输出自带碰撞体积对齐器，可直输合并器。\n\n> 注：不推荐自行扩展单元数量 ",
-    "category": "潜影盒处理/合并器相关",
-    "preview": "/content/潜影盒处理/合并器相关/1.16＋自适应均分不满盒暂存v1.2/preview.webp",
+    "category": "潜影盒处理/合并器相关/不满盒临时存储",
+    "preview": "/content/潜影盒处理/合并器相关/不满盒临时存储/1.16＋自适应均分不满盒暂存v1.2/preview.webp",
+    "thumb": "/content/潜影盒处理/合并器相关/不满盒临时存储/1.16＋自适应均分不满盒暂存v1.2/thumb.webp",
     "filename": "1.16+自适应均分不满盒暂存v1.2 [盒子合并].litematic",
-    "sub_id": "sub-1778344850978-107"
+    "sha256": "68c580e2d641726a5dd82185e2bd027d61981822aeed4ea758c62649c0d79c18"
   },
   {
-    "id": "20bps 水平物品实体传输 by：Nvertd",
+    "id": "sub-1778344850989-267",
     "name": "20bps 水平物品实体传输 by：Nvertd",
     "author": "Nvertd",
     "tags": [
@@ -40,11 +42,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 基于浮点矫正的水平冰道传输，速度为20bps\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Nvertd\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 在生存实装时，需对齐船的位置",
     "category": "其他杂物",
     "preview": "/content/其他杂物/20bps 水平物品实体传输 by：Nvertd/preview.webp",
+    "thumb": "/content/其他杂物/20bps 水平物品实体传输 by：Nvertd/thumb.webp",
     "filename": "20bps 水平物品实体传输 by：Nvertd[物品传输].litematic",
-    "sub_id": "sub-1778344850989-267"
+    "sha256": "977fe8460e065ce1ceb62d6bb63e03ec58b9b9043fb381c623324c607bc4518f"
   },
   {
-    "id": "4线四边形大宗",
+    "id": "sub-1778344851004-415",
     "name": "4线四边形大宗",
     "author": "Trice",
     "tags": [
@@ -55,13 +58,14 @@
       "编码大宗仓库"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将仓库与取货分离，通过编好的码进行请求\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Trice054\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 使用时可自由扩片\n\n> 本机器需搭配远程大宗使用",
-    "category": "编码存储科技/编码大宗仓库",
-    "preview": "/content/编码存储科技/编码大宗仓库/4线四边形大宗/preview.webp",
+    "category": "编码存储科技/编码大宗仓库/编码大宗",
+    "preview": "/content/编码存储科技/编码大宗仓库/编码大宗/4线四边形大宗/preview.webp",
+    "thumb": "/content/编码存储科技/编码大宗仓库/编码大宗/4线四边形大宗/thumb.webp",
     "filename": "4line_quad_bulk_final[编码相关][远程大宗].litematic",
-    "sub_id": "sub-1778344851004-415"
+    "sha256": "6bf642286c13edbe8a7216fefe27562aa6e6a4af09dad3a09df6855120965082"
   },
   {
-    "id": "6bit 6code二进制移位寄存器shift_register_6bit_6codes",
+    "id": "sub-1778344851009-329",
     "name": "6bit 6code二进制移位寄存器",
     "author": "Obi",
     "tags": [
@@ -72,11 +76,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 将输入的二进制码暂存，后续再输出。最大可暂存6个码\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Obi0081_\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
     "category": "编码存储科技/其他组件",
     "preview": "/content/编码存储科技/其他组件/6bit 6code二进制移位寄存器shift_register_6bit_6codes/preview.webp",
+    "thumb": "/content/编码存储科技/其他组件/6bit 6code二进制移位寄存器shift_register_6bit_6codes/thumb.webp",
     "filename": "6bit 6code二进制移位寄存器shift_register_6bit_6codes[编码相关].litematic",
-    "sub_id": "sub-1778344851009-329"
+    "sha256": "3f3a2366b60b79343bab2c87e59ee40fa47e2926d3e4e03cf6089d3c52912996"
   },
   {
-    "id": "多物品分类MIS4.2",
+    "id": "sub-1778344851151-391",
     "name": "多物品分类MIS4.2",
     "author": "Unknown",
     "tags": [
@@ -86,11 +91,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/多物品分类MIS4.2/preview.webp",
+    "thumb": "/content/其他杂物/多物品分类MIS4.2/thumb.webp",
     "filename": "多物品分类MIS4.2漏斗全锁standard_mis4.2_storage_v0.6.2_hopperlocked[MIS多物品分类].litematic",
-    "sub_id": "sub-1778344851151-391"
+    "sha256": "85080ded23b995e5fc3e71f431c837329f23e628df85031727a4b21433b7fc93"
   },
   {
-    "id": "非矿车 Mis_V5.1",
+    "id": "sub-1778344851044-945",
     "name": "非矿车 Mis_V5.1",
     "author": "Unknown",
     "tags": [
@@ -100,11 +106,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/非矿车 Mis_V5.1/preview.webp",
+    "thumb": "/content/其他杂物/非矿车 Mis_V5.1/thumb.webp",
     "filename": "Mis_V5.1[MIS多物品分类].litematic",
-    "sub_id": "sub-1778344851044-945"
+    "sha256": "88af111453ad39bece59bd184a855ba7aece42ca37dedf336e14f18f08582ce8"
   },
   {
-    "id": "盒子合并器v3.0 by77",
+    "id": "sub-1778344851174-783",
     "name": "盒子合并器v3.0 by77",
     "author": "77",
     "tags": [
@@ -114,11 +121,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/盒子合并器v3.0 by77/preview.webp",
+    "thumb": "/content/其他杂物/盒子合并器v3.0 by77/thumb.webp",
     "filename": "盒子合并器v3.0 by77[盒子合并].litematic",
-    "sub_id": "sub-1778344851174-783"
+    "sha256": "7f15c5532430d3f10848a2b0abab3e81dd8e6472d4779b8cc691d9e66e2894fb"
   },
   {
-    "id": "盒子寄存信号发生器 by obi",
+    "id": "sub-1778344851117-638",
     "name": "盒子寄存信号发生器 by obi",
     "author": "obi",
     "tags": [
@@ -128,11 +136,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/盒子寄存信号发生器 by obi/preview.webp",
+    "thumb": "/content/其他杂物/盒子寄存信号发生器 by obi/thumb.webp",
     "filename": "[盒子寄存信号发生器] by obi[编码相关].litematic",
-    "sub_id": "sub-1778344851117-638"
+    "sha256": "2e89b134bebab38cafacacc93aff658f14733c43e36d28ef1cb317a8c47bf240"
   },
   {
-    "id": "金合欢盒子分类v5 相关设计",
+    "id": "sub-1778344851184-888",
     "name": "金合欢盒子分类v5 相关设计",
     "author": "Unknown",
     "tags": [
@@ -142,11 +151,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/金合欢盒子分类v5 相关设计/preview.webp",
+    "thumb": "/content/其他杂物/金合欢盒子分类v5 相关设计/thumb.webp",
     "filename": "金合欢盒子分类v5 相关设计[盒子分类].zip",
-    "sub_id": "sub-1778344851184-888"
+    "sha256": "d368ae5bf5ad1c4f1cfb33420d57bb74cdb2e6b7d1a858112116754480ed16eb"
   },
   {
-    "id": "强模相关逻辑运算及进制转换",
+    "id": "sub-1778344851156-372",
     "name": "强模相关逻辑运算及进制转换",
     "author": "Unknown",
     "tags": [
@@ -156,11 +166,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/强模相关逻辑运算及进制转换/preview.webp",
+    "thumb": "/content/其他杂物/强模相关逻辑运算及进制转换/thumb.webp",
     "filename": "强模相关逻辑运算及进制转换1.12_HSS_T101[编码相关].zip",
-    "sub_id": "sub-1778344851156-372"
+    "sha256": "16a3c0d49d284425178a2d82e1387aad069673d188ead0331b48e7097833971a"
   },
   {
-    "id": "强模移位寄存器",
+    "id": "sub-1778344851159-805",
     "name": "强模移位寄存器",
     "author": "Unknown",
     "tags": [
@@ -170,11 +181,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/强模移位寄存器/preview.webp",
+    "thumb": "/content/其他杂物/强模移位寄存器/thumb.webp",
     "filename": "强模移位寄存器t1_hss_hex_shift_register_1_12_v1_2[编码相关].litematic",
-    "sub_id": "sub-1778344851159-805"
+    "sha256": "f68c4e92ead98a2f4567819ca4682acecbb24ec5f09d070b1fa0523991bd6e7e"
   },
   {
-    "id": "弱模纵传",
+    "id": "sub-1778344851154-596",
     "name": "弱模纵传",
     "author": "Unknown",
     "tags": [
@@ -184,11 +196,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/弱模纵传/preview.webp",
+    "thumb": "/content/其他杂物/弱模纵传/thumb.webp",
     "filename": "弱模纵传[编码相关].litematic",
-    "sub_id": "sub-1778344851154-596"
+    "sha256": "3d2a25f52bcc2db22d00de90516afc066d36224d044888ee80e125d8d84eb71e"
   },
   {
-    "id": "竖式移位寄存器",
+    "id": "sub-1778344851176-91",
     "name": "竖式移位寄存器",
     "author": "Unknown",
     "tags": [
@@ -198,11 +211,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/竖式移位寄存器/preview.webp",
+    "thumb": "/content/其他杂物/竖式移位寄存器/thumb.webp",
     "filename": "竖式移位寄存器[编码相关].litematic",
-    "sub_id": "sub-1778344851176-91"
+    "sha256": "4b6fb53eb25322ec620534dc4ee7241811a98f29845a7ddd091af4722e62fc2e"
   },
   {
-    "id": "双边沿无延迟强模链",
+    "id": "sub-1778344851112-987",
     "name": "双边沿无延迟强模链",
     "author": "Unknown",
     "tags": [
@@ -212,11 +226,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/双边沿无延迟强模链/preview.webp",
+    "thumb": "/content/其他杂物/双边沿无延迟强模链/thumb.webp",
     "filename": "[12gt]双边沿无延迟强模链[编码相关].litematic",
-    "sub_id": "sub-1778344851112-987"
+    "sha256": "2b8c41d8fd1edadb38effae0c29e075e2266f4698edc180ecd86b5873c7db90a"
   },
   {
-    "id": "无延迟比较器链by erraVoxel",
+    "id": "sub-1778344851167-578",
     "name": "无延迟比较器链by erraVoxel",
     "author": "erraVoxel",
     "tags": [
@@ -226,11 +241,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/无延迟比较器链by erraVoxel/preview.webp",
+    "thumb": "/content/其他杂物/无延迟比较器链by erraVoxel/thumb.webp",
     "filename": "无延迟比较器链by erraVoxel[编码相关].litematic",
-    "sub_id": "sub-1778344851167-578"
+    "sha256": "687c261cb3ca2246950566ec64290f981a56e2f6b8ae1b36b49e2f67b240403b"
   },
   {
-    "id": "远程大宗 By Hua_Jing",
+    "id": "sub-1778344851014-391",
     "name": "远程大宗 By Hua_Jing",
     "author": "Hua_Jing",
     "tags": [
@@ -240,11 +256,12 @@
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
     "category": "其他杂物",
     "preview": "/content/其他杂物/远程大宗 By Hua_Jing/preview.webp",
+    "thumb": "/content/其他杂物/远程大宗 By Hua_Jing/thumb.webp",
     "filename": "Coded storage--By.Hua_Jing[编码相关][远程大宗].litematic",
-    "sub_id": "sub-1778344851014-391"
+    "sha256": "53c661792c2c4274b555ee19e5653cfbf2ed71c306978a21a7640c411fa565d6"
   },
   {
-    "id": "Elk_Remote_Bulk",
+    "id": "sub-1778344851023-355",
     "name": "Elk 远程大宗",
     "author": "麋鹿",
     "tags": [
@@ -255,13 +272,14 @@
       "远程大宗"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 一个双线程的二进制远程大宗，计时54个物品后上锁，支持四边形输出。不支持分组输入\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Skmiro\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 输出需搭配大宗近端使用，输入时需搭配编码器使用",
-    "category": "编码存储科技/编码大宗仓库",
-    "preview": "/content/编码存储科技/编码大宗仓库/Elk_Remote_Bulk/preview.webp",
+    "category": "编码存储科技/编码大宗仓库/编码大宗",
+    "preview": "/content/编码存储科技/编码大宗仓库/编码大宗/Elk_Remote_Bulk/preview.webp",
+    "thumb": "/content/编码存储科技/编码大宗仓库/编码大宗/Elk_Remote_Bulk/thumb.webp",
     "filename": "Elk_Remote_Bulk[编码相关][远程大宗].litematic",
-    "sub_id": "sub-1778344851023-355"
+    "sha256": "936ba778d3866b578222db1fb31879d75fb7d83d1b01cd6f26a87430c2f16c37"
   },
   {
-    "id": "Encoded Bulk v1.1 by linchien26",
+    "id": "sub-1778344851026-304",
     "name": "远程大宗 v1.1 by linchien26",
     "author": "林间",
     "tags": [
@@ -272,13 +290,14 @@
       "编码大宗仓库"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 单线程的远程大宗，计数器计数54个物品后上锁。支持四边形输出，修改后可支持分组输入\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: linchien26\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 使用时**必须**搭配线程优先级，大宗近端，编码器使用",
-    "category": "编码存储科技/编码大宗仓库",
-    "preview": "/content/编码存储科技/编码大宗仓库/Encoded Bulk v1.1 by linchien26/preview.webp",
+    "category": "编码存储科技/编码大宗仓库/编码大宗",
+    "preview": "/content/编码存储科技/编码大宗仓库/编码大宗/Encoded Bulk v1.1 by linchien26/preview.webp",
+    "thumb": "/content/编码存储科技/编码大宗仓库/编码大宗/Encoded Bulk v1.1 by linchien26/thumb.webp",
     "filename": "Encoded Bulk v1.1 by linchien26[编码相关][远程大宗].litematic",
-    "sub_id": "sub-1778344851026-304"
+    "sha256": "78ea4df0eee9acd5c2c59af3346058e36b0f672326407afc09a79bb31c0c98e8"
   },
   {
-    "id": "remote_bulk_final",
+    "id": "sub-1778344851077-877",
     "name": "远程大宗final",
     "author": "Trice",
     "tags": [
@@ -289,13 +308,14 @@
       "编码大宗"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 一个双线程的二进制远程大宗，计时54个物品后上锁，支持四边形输出。不支持分组输入\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Trice054\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 输出需搭配大宗近端使用，输入时需搭配编码器使用",
-    "category": "编码存储科技/编码大宗仓库",
-    "preview": "/content/编码存储科技/编码大宗仓库/remote_bulk_final/preview.webp",
+    "category": "编码存储科技/编码大宗仓库/编码大宗",
+    "preview": "/content/编码存储科技/编码大宗仓库/编码大宗/remote_bulk_final/preview.webp",
+    "thumb": "/content/编码存储科技/编码大宗仓库/编码大宗/remote_bulk_final/thumb.webp",
     "filename": "remote_bulk_final[编码相关][远程大宗].litematic",
-    "sub_id": "sub-1778344851077-877"
+    "sha256": "b436b8ccf2eab12387b3d790c7fcb02905435c13cc60a50e2a652c14dfaff29f"
   },
   {
-    "id": "stolen_smol_transcoder",
+    "id": "sub-1778344851083-317",
     "name": "二进制车头（转码器）",
     "author": "in",
     "tags": [
@@ -305,9 +325,10 @@
       "二进制"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 手动输入码后转成解码器能解码的二进制输入\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: ionstrin\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "category": "编码存储科技/编码器",
-    "preview": "/content/编码存储科技/编码器/stolen_smol_transcoder/preview.webp",
+    "category": "编码存储科技/解码器/二进制",
+    "preview": "/content/编码存储科技/解码器/二进制/stolen_smol_transcoder/preview.webp",
+    "thumb": "/content/编码存储科技/解码器/二进制/stolen_smol_transcoder/thumb.webp",
     "filename": "stolen_smol_transcoder[编码相关].litematic",
-    "sub_id": "sub-1778344851083-317"
+    "sha256": "cd2b297c4cc93d6ca4533be656890f70f5051909f607811f75921e5fef8ebd1f"
   }
 ]

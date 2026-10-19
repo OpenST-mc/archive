@@ -1,6 +1,6 @@
 [
   {
-    "id": "细雪展示 by camphorwood",
+    "id": "sub-1778344851097-670",
     "name": "细雪展示 by camphorwood",
     "author": "Unknown",
     "tags": [
@@ -9,13 +9,14 @@
       "1.16+"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
-    "category": "潜影盒处理/潜影盒展示",
-    "preview": "/content/潜影盒处理/潜影盒展示/细雪展示 by camphorwood/preview.webp",
+    "category": "潜影盒处理/潜影盒展示/细雪展示",
+    "preview": "/content/潜影盒处理/潜影盒展示/细雪展示/细雪展示 by camphorwood/preview.webp",
+    "thumb": "/content/潜影盒处理/潜影盒展示/细雪展示/细雪展示 by camphorwood/thumb.webp",
     "filename": "walldisplay_defaultextended[细雪展示 潜影盒展示].litematic",
-    "sub_id": "sub-1778344851097-670"
+    "sha256": "335a8cff2322166fb2b452d8d6a83db1e8a95621c37ddc97c16beb12873748ff"
   },
   {
-    "id": "Tom自出盒细雪展示",
+    "id": "sub-1772643835289",
     "name": "【1.17+】Tom 自出盒细雪展示",
     "author": "Unknown",
     "tags": [
@@ -25,9 +26,10 @@
       "潜影盒展示"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 一个使用 CUD 实现自出盒的潜影盒展示，其自出盒逻辑具备一定参考价值。\n- **适用版本**: Java 1.17+\n- **投影创建者**: Trice054\n- **投影创建时间**: 2023-08-12\n\n### 📖 使用说明\n1. 原投影文件署名为Tom，在原本设计的基础上进行了一些修改。\n2. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n\n>提示：本机器应横向堆叠使用。",
-    "category": "潜影盒处理/潜影盒展示",
-    "preview": "/content/潜影盒处理/潜影盒展示/Tom自出盒细雪展示/preview.webp",
+    "category": "潜影盒处理/潜影盒展示/自出盒展示",
+    "preview": "/content/潜影盒处理/潜影盒展示/自出盒展示/Tom自出盒细雪展示/preview.webp",
+    "thumb": "/content/潜影盒处理/潜影盒展示/自出盒展示/Tom自出盒细雪展示/thumb.webp",
     "filename": "Tom自出盒细雪展示.litematic",
-    "sub_id": "sub-1772643835289"
+    "sha256": "793174c38032f85653a5fc3507fdfa074253434ef6538317c10a06926ecb80a6"
   }
 ]

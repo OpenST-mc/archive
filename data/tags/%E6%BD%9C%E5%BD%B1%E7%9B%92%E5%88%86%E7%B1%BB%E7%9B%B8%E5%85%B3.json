@@ -1,6 +1,6 @@
 [
   {
-    "id": "16gt_MBS_77_v2.0",
+    "id": "sub-1778344850986-771",
     "name": "16gt 多物品分类 v2.0",
     "author": "77",
     "tags": [
@@ -9,13 +9,14 @@
       "潜影盒分类"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 以16gt的速度将盒子分类。一个片可同时对应多个被分类物品\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Beggar_Boss\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 有需要可自行扩片，每一片为2wt",
-    "category": "潜影盒处理/潜影盒分类相关",
-    "preview": "/content/潜影盒处理/潜影盒分类相关/16gt_MBS_77_v2.0/preview.webp",
+    "category": "潜影盒处理/潜影盒分类相关/潜影盒分类",
+    "preview": "/content/潜影盒处理/潜影盒分类相关/潜影盒分类/16gt_MBS_77_v2.0/preview.webp",
+    "thumb": "/content/潜影盒处理/潜影盒分类相关/潜影盒分类/16gt_MBS_77_v2.0/thumb.webp",
     "filename": "16gt_MBS_77_v2.0[MBS多种类潜影盒分类].litematic",
-    "sub_id": "sub-1778344850986-771"
+    "sha256": "47d8481a1d44260d5278c8b4d1ed9293f72029c5140e389c281846d69641cc27"
   },
   {
-    "id": "8gt盒子取样器 8gt_keygen",
+    "id": "sub-1772476286973",
     "name": "【1.16+】8gt 盒子取样器",
     "author": "Unknown",
     "tags": [
@@ -24,13 +25,14 @@
       "潜影盒分类相关"
     ],
     "description": "### 🚀 机器概览  \n- **核心功能**：\n对潜影盒内的物品进行取样，来判断盒内物品，常作为潜影盒分类的前置逻辑使用。\n- **适用版本**：Java 1.16+  \n- **投影创建者**：RaPsCaLLioN1138  \n- **投影创建时间**：2021-11-20 \n### 📖 使用说明\n1. 在黄色混凝土旁的漏斗处，输入装有物品的潜影盒。在紫色羊毛处输出潜影盒，白色羊毛处输出物品 。\n2. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "category": "潜影盒处理/潜影盒分类相关",
-    "preview": "/content/潜影盒处理/潜影盒分类相关/8gt盒子取样器 8gt_keygen/preview.webp",
+    "category": "潜影盒处理/潜影盒分类相关/车头及拐弯设计 (Keygen & U-turn)",
+    "preview": "/content/潜影盒处理/潜影盒分类相关/车头及拐弯设计 (Keygen & U-turn)/8gt盒子取样器 8gt_keygen/preview.webp",
+    "thumb": "/content/潜影盒处理/潜影盒分类相关/车头及拐弯设计 (Keygen & U-turn)/8gt盒子取样器 8gt_keygen/thumb.webp",
     "filename": "8gt盒子取样器 8gt_keygen.litematic",
-    "sub_id": "sub-1772476286973"
+    "sha256": "2b71bb77e6d4e271632c70e1ab91f1650038f04fae66f7c1cb2c47a43f37819a"
   },
   {
-    "id": "简易潜影盒分类",
+    "id": "sub-1772558708871",
     "name": "【1.16+】简易潜影盒分类",
     "author": "JRubikMC",
     "tags": [
@@ -39,13 +41,14 @@
       "潜影盒分类相关"
     ],
     "description": "### 🚀 机器概览（示例）\n- **核心功能**: 一个简易的潜影盒分类。相比于正常的潜影盒分类要更卡，但是真的很丐。\n- **适用版本**: Java 1.16+\n- **投影创建者**: JRubikMC\n- **投影创建时间**: 2024-09-17\n\n### 📖 使用说明\n1. 该设计的单片的原作者为 金合欢酱（acaciachan），发布于 2024-01-20。\n2. 在非原版特性端使用时，请先测试机器能否正常工作再进行实装。",
-    "category": "潜影盒处理/潜影盒分类相关",
-    "preview": "/content/潜影盒处理/潜影盒分类相关/简易潜影盒分类/preview.webp",
+    "category": "潜影盒处理/潜影盒分类相关/潜影盒分类",
+    "preview": "/content/潜影盒处理/潜影盒分类相关/潜影盒分类/简易潜影盒分类/preview.webp",
+    "thumb": "/content/潜影盒处理/潜影盒分类相关/潜影盒分类/简易潜影盒分类/thumb.webp",
     "filename": "简易潜影盒分类 Simple Box Sorter.litematic",
-    "sub_id": "sub-1772558708871"
+    "sha256": "32d1dee90478152a0f488f2b11e8e43de0e66f62af99fff34ebc504a53dd0023"
   },
   {
-    "id": "金合欢潜影盒分类-车头及拐弯",
+    "id": "sub-1772474624236",
     "name": "【1.16+】金合欢潜影盒分类-车头及拐弯设计",
     "author": "金合欢酱（acaciachan）",
     "tags": [
@@ -54,13 +57,14 @@
       "潜影盒分类相关"
     ],
     "description": "### 🚀 机器概览（示例）\n- **核心功能**: \n“金合欢潜影盒分类v5” 的车头及拐弯设计。\n- **适用版本**: Java 1.16+\n- **投影创建者**: Philgood0815\n- **投影创建时间**: 2023-09-23\n\n### 📖 使用说明\n1. 投影内分别包含了：车头、拐弯设计、具体样例，可根据实际需求自行拓展。\n2. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n\n> 提示：本机器需与 “金合欢潜影盒分类v5” 配合使用。",
-    "category": "潜影盒处理/潜影盒分类相关",
-    "preview": "/content/潜影盒处理/潜影盒分类相关/金合欢潜影盒分类-车头及拐弯/preview.webp",
+    "category": "潜影盒处理/潜影盒分类相关/车头及拐弯设计 (Keygen & U-turn)",
+    "preview": "/content/潜影盒处理/潜影盒分类相关/车头及拐弯设计 (Keygen & U-turn)/金合欢潜影盒分类-车头及拐弯/preview.webp",
+    "thumb": "/content/潜影盒处理/潜影盒分类相关/车头及拐弯设计 (Keygen & U-turn)/金合欢潜影盒分类-车头及拐弯/thumb.webp",
     "filename": "金合欢潜影盒分类-车头及拐弯 Acaciachan_Box_Sorter_Keygen_U-Turn_Ultimate.litematic",
-    "sub_id": "sub-1772474624236"
+    "sha256": "25521b7fa70fbb435049daaa92eacf502e1c37f893814a04e216fc7b7fdc2bda"
   },
   {
-    "id": "Ners自解锁潜影盒分类",
+    "id": "sub-1772475420526",
     "name": "【1.13+】Ners 自解锁潜影盒分类",
     "author": "Ners（N3rsssss）",
     "tags": [
@@ -69,9 +73,10 @@
       "潜影盒分类相关"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: \n无需全局解锁、仅解锁对应单片漏斗的潜影盒分类。\n- **适用版本**: Java 1.13+\n- **投影创建者**: N3rsssss\n- **投影创建时间**: 2023-05-05\n\n### 📖 使用说明\n1. 文件是压缩包，包含了适配 JE 1.13 ~ 1.17+ 版本的不同设计方案。\n2. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n",
-    "category": "潜影盒处理/潜影盒分类相关",
-    "preview": "/content/潜影盒处理/潜影盒分类相关/Ners自解锁潜影盒分类/preview.webp",
+    "category": "潜影盒处理/潜影盒分类相关/潜影盒分类",
+    "preview": "/content/潜影盒处理/潜影盒分类相关/潜影盒分类/Ners自解锁潜影盒分类/preview.webp",
+    "thumb": "/content/潜影盒处理/潜影盒分类相关/潜影盒分类/Ners自解锁潜影盒分类/thumb.webp",
     "filename": "Ners自解锁盒子分类相关.zip",
-    "sub_id": "sub-1772475420526"
+    "sha256": "4f521d0b8c6eda940ec27717e669d0221777b72ee69bbf3c538ed1e36484ab0c"
   }
 ]

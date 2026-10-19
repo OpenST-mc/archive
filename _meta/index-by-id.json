@@ -1,685 +1,931 @@
 {
-  "20bps 水平物品实体传输 by：Nvertd": {
+  "sub-1778344850989-267": {
+    "name": "20bps 水平物品实体传输 by：Nvertd",
     "category": "其他杂物",
     "files": [
       "20bps 水平物品实体传输 by：Nvertd[物品传输].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "977fe8460e065ce1ceb62d6bb63e03ec58b9b9043fb381c623324c607bc4518f"
   },
-  "【无延迟强模信号传输】": {
+  "sub-1778344851127-192": {
+    "name": "无延迟强模信号传输",
     "category": "其他杂物",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "【无延迟强模信号传输】[编码相关].litematic"
-    ]
+    ],
+    "sha256": "d77a3eef585902c30cac78fb4e52348144b796491d03cb553c094fc95d60ef71"
   },
-  "CMIS-V5": {
-    "category": "其他杂物/仓库成品",
+  "sub-1772730841971": {
+    "name": "【1.21+】CMIS-V5",
+    "category": "其他杂物/仓库成品/全物品仓库",
     "files": [
       "CMIS-V5.0.litematic",
       "info.json",
       "preview.png",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "7fb063f2098cc851dbc56185757e7af33cb40149bbfa69537da2634c15784f21"
   },
-  "YAMS V2.3 MB 1.20": {
-    "category": "其他杂物/仓库成品",
+  "sub-1778344851100-809": {
+    "name": "YAMS V2.3 大宗版本",
+    "category": "其他杂物/仓库成品/全物品仓库",
     "files": [
       "YAMS V2.3 MB 1.20[仓库成品].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "bf3750e6e2ee8664a6d81710b8fddaedee02041c7fab05e6dccf1df2ef92f19e"
   },
-  "luckeY MS": {
-    "category": "其他杂物/仓库成品",
+  "sub-1778344851046-949": {
+    "name": "luckeY 全物品",
+    "category": "其他杂物/仓库成品/全物品仓库",
     "files": [
       "MS001_luckeY_Main_Storage[[仓库成品]].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "5f077f77be1f9e4f1651d7c62c4f4c77230794d06e447944957e0c644ce501bc"
   },
-  "矿车自适应权重分流器": {
+  "sub-1772666563986": {
+    "name": "【1.19+】矿车自适应权重分流器",
     "category": "其他杂物/分流器-黑白名单",
     "files": [
       "info.json",
       "preview.png",
       "preview.webp",
+      "thumb.webp",
       "权重分流器全逻辑（逻辑储电） by wreg.litematic"
-    ]
+    ],
+    "sha256": "20e16158919eb20dda4c54d2c6970b83803898c0975abc2d8530102b6b8e5159"
   },
-  "双边沿无延迟强模链": {
+  "sub-1778344851112-987": {
+    "name": "双边沿无延迟强模链",
     "category": "其他杂物",
     "files": [
       "[12gt]双边沿无延迟强模链[编码相关].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "2b8c41d8fd1edadb38effae0c29e075e2266f4698edc180ecd86b5873c7db90a"
   },
-  "SBCL_NE-Kahyxen": {
+  "sub-1778344851080-537": {
+    "name": "地狱门加载器 - by Kahyxen",
     "category": "其他杂物/地狱门加载器",
     "files": [
       "SBCL_NE-Kahyxen[地狱门加载器].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "0d0abba51082a8337bb4e0b291eec0ad6e7eb1d67a7446d671bdd14c3de3c48b"
   },
-  "【无实体地狱门加载器 主世界】": {
+  "sub-1778344851122-131": {
+    "name": "无实体地狱门加载器",
     "category": "其他杂物/地狱门加载器",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "无实体地狱门加载器.zip"
-    ]
+    ],
+    "sha256": "60c9006c8ffdcedd1c3a5fad3dc92acfefb1f63c67eacdfc2d83d488e826ca29"
   },
-  "全锁南瓜加载器": {
+  "sub-1778344851132-2": {
+    "name": "全锁南瓜加载器",
     "category": "其他杂物/地狱门加载器",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "全锁南瓜加载器[地狱门加载器].litematic"
-    ]
+    ],
+    "sha256": "2f60eb7e46b219444365d25ad6af3160c3268ab9d5b00cd6e781e5e72d43094d"
   },
-  "单片地狱门加载器1.16＋【兼容服务端】": {
+  "sub-1778344851140-986": {
+    "name": "单片地狱门加载器1.16＋【兼容服务端】",
     "category": "其他杂物/地狱门加载器",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "单片地狱门加载器1.16+【兼容服务端】[地狱门加载器].litematic"
-    ]
+    ],
+    "sha256": "2050eba5d766feadc4a4a474afae7a122bf61b1c49d9c25a336d2735f4d61e9a"
   },
-  "单片地狱门加载器1.19＋【兼容服务端】": {
+  "sub-1778344851142-904": {
+    "name": "单片地狱门加载器1.19＋【兼容服务端】",
     "category": "其他杂物/地狱门加载器",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "单片地狱门加载器1.19+【兼容服务端】[地狱门加载器].litematic"
-    ]
+    ],
+    "sha256": "c1fdba148671cabef0953ee139428043671aca540b949ef9832451dffbdb2482"
   },
-  "单片地狱门加载器（地狱部分）【兼容服务端】": {
+  "sub-1778344851145-775": {
+    "name": "单片地狱门加载器（地狱部分）【兼容服务端】",
     "category": "其他杂物/地狱门加载器",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "单片地狱门加载器（地狱部分）【兼容服务端】[地狱门加载器].litematic"
-    ]
+    ],
+    "sha256": "31339ddb7755e641d6a665beaf5c2ffc28c40bf9b4a9c424a47c752508628f10"
   },
-  "南瓜头地狱门加载器": {
+  "sub-1778344851148-397": {
+    "name": "南瓜头地狱门加载器",
     "category": "其他杂物/地狱门加载器",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "南瓜头地狱门加载器修正PBCL_V2.1_Pair[地狱门加载器].litematic"
-    ]
+    ],
+    "sha256": "21d699047bbef0138b88d7046a637c8c989fb26313262efe9cdafa435789e74c"
   },
-  "物品地狱门加载器 1.19＋": {
+  "sub-1778344851039-332": {
+    "name": "物品地狱门加载器 1.19＋",
     "category": "其他杂物/地狱门加载器",
     "files": [
       "Item_Chunkloader_1.19[地狱门加载器].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "8e6e4f5491ff230629888de018c365d2264eab32aca0ba27959742ba7daa08ff"
   },
-  "盒子南瓜地狱门加载器 全锁  by麋鹿": {
+  "sub-1778344851171-633": {
+    "name": "盒子南瓜地狱门加载器 全锁  by麋鹿",
     "category": "其他杂物/地狱门加载器",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "盒子南瓜地狱门加载器 全锁  by麋鹿[地狱门加载器].litematic"
-    ]
+    ],
+    "sha256": "851bb43c8d21c4138184e03d948ec149bf524837689b25df42e127c445f7f360"
   },
-  "多物品分类MIS4.2": {
+  "sub-1778344851151-391": {
+    "name": "多物品分类MIS4.2",
     "category": "其他杂物",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "多物品分类MIS4.2漏斗全锁standard_mis4.2_storage_v0.6.2_hopperlocked[MIS多物品分类].litematic"
-    ]
+    ],
+    "sha256": "85080ded23b995e5fc3e71f431c837329f23e628df85031727a4b21433b7fc93"
   },
-  "弱模纵传": {
+  "sub-1778344851154-596": {
+    "name": "弱模纵传",
     "category": "其他杂物",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "弱模纵传[编码相关].litematic"
-    ]
+    ],
+    "sha256": "3d2a25f52bcc2db22d00de90516afc066d36224d044888ee80e125d8d84eb71e"
   },
-  "强模相关逻辑运算及进制转换": {
+  "sub-1778344851156-372": {
+    "name": "强模相关逻辑运算及进制转换",
     "category": "其他杂物",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "强模相关逻辑运算及进制转换1.12_HSS_T101[编码相关].zip"
-    ]
+    ],
+    "sha256": "16a3c0d49d284425178a2d82e1387aad069673d188ead0331b48e7097833971a"
   },
-  "强模移位寄存器": {
+  "sub-1778344851159-805": {
+    "name": "强模移位寄存器",
     "category": "其他杂物",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "强模移位寄存器t1_hss_hex_shift_register_1_12_v1_2[编码相关].litematic"
-    ]
+    ],
+    "sha256": "f68c4e92ead98a2f4567819ca4682acecbb24ec5f09d070b1fa0523991bd6e7e"
   },
-  "[1.19+]1wt自适应堆分整流": {
+  "sub-1778344851134-754": {
+    "name": "全锁预分类整流器",
     "category": "其他杂物/整流器",
+    "files": [
+      "info.json",
+      "preview.webp",
+      "thumb.webp",
+      "全锁预分类整流器[整流器].litematic"
+    ],
+    "sha256": "c234dfec13ead2d40fdeb662dac8db635f4c5abc545e744028469f7ec6cf19bc"
+  },
+  "sub-1782403150143": {
+    "name": "[1.19+]1wt自适应堆分整流",
+    "category": "其他杂物/整流器/堆分整流器",
     "files": [
       "1wt自适应堆分整流V2.rar",
       "info.json",
       "preview.png",
-      "preview.webp"
-    ]
-  },
-  "全锁预分类整流器": {
-    "category": "其他杂物/整流器",
-    "files": [
-      "info.json",
       "preview.webp",
-      "全锁预分类整流器[整流器].litematic"
-    ]
+      "thumb.webp"
+    ],
+    "sha256": "adcf48cd65abc007d741060885b32682944d7950f08a313bfeb54264278873fe"
   },
-  "自适应黑名单整流器": {
-    "category": "其他杂物/整流器",
+  "sub-1772666365850": {
+    "name": "【1.19+】自适应黑名单整流器",
+    "category": "其他杂物/整流器/矿车整流器",
     "files": [
       "cart set based-by wreg.litematic",
       "info.json",
       "preview.png",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "6124b0ec636e41bae818dc09d0e563fcfd70b9858e3559b1407c7d18f6b98000"
   },
-  "全锁无实体输入 1.12": {
+  "sub-1778344851029-716": {
+    "name": "全锁无实体输入系列",
     "category": "其他杂物/无实体输入",
     "files": [
       "SIS无实体输入系列.zip",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "487548c80f422cfa4c211804c6d08899219adc2d2ea272dbee00ce870f4eb59e"
   },
-  "无实体输入 V3": {
+  "sub-1772769488104": {
+    "name": "【1.17+】无实体输入",
     "category": "其他杂物/无实体输入",
     "files": [
       "info.json",
       "preview.png",
       "preview.webp",
+      "thumb.webp",
       "无实体输入V3.1 by萌新.litematic"
-    ]
+    ],
+    "sha256": "5a448b6aed8861ac9667c3247c49d148bcef25b28b2d076f9b9fb69786128ade"
   },
-  "终极全物品输入 v5": {
+  "sub-1778344851067-302": {
+    "name": "终极全物品输入 v5",
     "category": "其他杂物/无实体输入",
     "files": [
       "PI002_Ultimate_Storage_Input_v5[SIS无实体输入].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "0d8e7a51ecd3c3d00cfa2a2b90e8cb3e65d68cd9a7be02e8e1f500b580e31c75"
   },
-  "无延迟比较器链by erraVoxel": {
+  "sub-1778344851167-578": {
+    "name": "无延迟比较器链by erraVoxel",
     "category": "其他杂物",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "无延迟比较器链by erraVoxel[编码相关].litematic"
-    ]
+    ],
+    "sha256": "687c261cb3ca2246950566ec64290f981a56e2f6b8ae1b36b49e2f67b240403b"
   },
-  "盒子合并器v3.0 by77": {
+  "sub-1778344851174-783": {
+    "name": "盒子合并器v3.0 by77",
     "category": "其他杂物",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "盒子合并器v3.0 by77[盒子合并].litematic"
-    ]
+    ],
+    "sha256": "7f15c5532430d3f10848a2b0abab3e81dd8e6472d4779b8cc691d9e66e2894fb"
   },
-  "盒子寄存信号发生器 by obi": {
+  "sub-1778344851117-638": {
+    "name": "盒子寄存信号发生器 by obi",
     "category": "其他杂物",
     "files": [
       "[盒子寄存信号发生器] by obi[编码相关].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "2e89b134bebab38cafacacc93aff658f14733c43e36d28ef1cb317a8c47bf240"
   },
-  "竖式移位寄存器": {
+  "sub-1778344851176-91": {
+    "name": "竖式移位寄存器",
     "category": "其他杂物",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "竖式移位寄存器[编码相关].litematic"
-    ]
+    ],
+    "sha256": "4b6fb53eb25322ec620534dc4ee7241811a98f29845a7ddd091af4722e62fc2e"
   },
-  "远程大宗 By Hua_Jing": {
-    "category": "其他杂物",
-    "files": [
-      "Coded storage--By.Hua_Jing[编码相关][远程大宗].litematic",
-      "info.json",
-      "preview.webp"
-    ]
-  },
-  "金合欢盒子分类v5 相关设计": {
-    "category": "其他杂物",
-    "files": [
-      "info.json",
-      "preview.webp",
-      "金合欢盒子分类v5 相关设计[盒子分类].zip"
-    ]
-  },
-  "非矿车 Mis_V5.1": {
-    "category": "其他杂物",
-    "files": [
-      "Mis_V5.1[MIS多物品分类].litematic",
-      "info.json",
-      "preview.webp"
-    ]
-  },
-  "32倍-64倍速 紧凑型高速分盒器": {
-    "category": "潜影盒处理/分盒器相关",
-    "files": [
-      "Ideal_Splitter_V3-r8.zip",
-      "info.json",
-      "preview.png",
-      "preview.webp"
-    ]
-  },
-  "分盒器v5.5 by 77": {
-    "category": "潜影盒处理/分盒器相关",
-    "files": [
-      "info.json",
-      "preview.webp",
-      "分盒器v5.5[分盒器].litematic"
-    ]
-  },
-  "第二代64x高速分盒器": {
-    "category": "潜影盒处理/分盒器相关",
-    "files": [
-      "info.json",
-      "preview.png",
-      "preview.webp",
-      "高速分盒系列.zip"
-    ]
-  },
-  "1.16＋自适应均分不满盒暂存v1.2": {
-    "category": "潜影盒处理/合并器相关",
-    "files": [
-      "1.16+自适应均分不满盒暂存v1.2 [盒子合并].litematic",
-      "info.json",
-      "preview.webp"
-    ]
-  },
-  "wreg初代自适应不满盒暂存": {
-    "category": "潜影盒处理/合并器相关",
-    "files": [
-      "info.json",
-      "preview.png",
-      "preview.webp",
-      "variable temp v3.2 by wreg.litematic"
-    ]
-  },
-  "16gt_MBS_77_v2.0": {
-    "category": "潜影盒处理/潜影盒分类相关",
-    "files": [
-      "16gt_MBS_77_v2.0[MBS多种类潜影盒分类].litematic",
-      "info.json",
-      "preview.webp"
-    ]
-  },
-  "8gt盒子取样器 8gt_keygen": {
-    "category": "潜影盒处理/潜影盒分类相关",
-    "files": [
-      "8gt盒子取样器 8gt_keygen.litematic",
-      "info.json",
-      "preview.png",
-      "preview.webp"
-    ]
-  },
-  "Ners自解锁潜影盒分类": {
-    "category": "潜影盒处理/潜影盒分类相关",
-    "files": [
-      "Ners自解锁盒子分类相关.zip",
-      "info.json",
-      "preview.png",
-      "preview.webp"
-    ]
-  },
-  "简易潜影盒分类": {
-    "category": "潜影盒处理/潜影盒分类相关",
-    "files": [
-      "info.json",
-      "preview.png",
-      "preview.webp",
-      "简易潜影盒分类 Simple Box Sorter.litematic"
-    ]
-  },
-  "金合欢潜影盒分类-车头及拐弯": {
-    "category": "潜影盒处理/潜影盒分类相关",
-    "files": [
-      "info.json",
-      "preview.png",
-      "preview.webp",
-      "金合欢潜影盒分类-车头及拐弯 Acaciachan_Box_Sorter_Keygen_U-Turn_Ultimate.litematic"
-    ]
-  },
-  "Tom自出盒细雪展示": {
-    "category": "潜影盒处理/潜影盒展示",
-    "files": [
-      "Tom自出盒细雪展示.litematic",
-      "info.json",
-      "preview.png",
-      "preview.webp"
-    ]
-  },
-  "三水无残留自出潜影盒展示": {
-    "category": "潜影盒处理/潜影盒展示",
-    "files": [
-      "info.json",
-      "preview.webp",
-      "三水无残留自出潜影盒展示[潜影盒展示].litematic"
-    ]
-  },
-  "细雪展示 by camphorwood": {
-    "category": "潜影盒处理/潜影盒展示",
-    "files": [
-      "info.json",
-      "preview.webp",
-      "walldisplay_defaultextended[细雪展示 潜影盒展示].litematic"
-    ]
-  },
-  "终极细雪箱盒展示(44gt)": {
-    "category": "潜影盒处理/潜影盒展示",
-    "files": [
-      "info.json",
-      "preview.webp",
-      "终极细雪箱盒展示(44gt)[潜影盒展示].litematic"
-    ]
-  },
-  "0t堆肥桶可访问打包": {
-    "category": "潜影盒处理/潜影盒打包机",
-    "files": [
-      "0t堆肥桶可访问打包机.litematic",
-      "info.json",
-      "preview.png",
-      "preview.webp"
-    ]
-  },
-  "8倍速自适应计数堆分打包": {
-    "category": "潜影盒处理/潜影盒打包机",
-    "files": [
-      "8倍速自适应计数堆分打包 By 漾绅.litematic",
-      "info.json",
-      "preview.png",
-      "preview.webp"
-    ]
-  },
-  "Variable Filter V2.1b-r4": {
-    "category": "潜影盒处理/潜影盒打包机",
-    "files": [
-      "Variable Filter V2.1b-r4[打包机][自适应打包机].zip",
-      "info.json",
-      "preview.webp"
-    ]
-  },
-  "全局重置自适应打包机 v4.4": {
-    "category": "潜影盒处理/潜影盒打包机",
-    "files": [
-      "Global reset variable loader 4.4[打包机][自适应打包机].litematic",
-      "info.json",
-      "preview.webp"
-    ]
-  },
-  "对称计数堆分打包": {
-    "category": "潜影盒处理/潜影盒打包机",
-    "files": [
-      "ideal堆分打包（mini折半）.litematic",
-      "info.json",
-      "preview.png",
-      "preview.webp"
-    ]
-  },
-  "打包机专区 - 金合欢": {
-    "category": "潜影盒处理/潜影盒打包机",
-    "files": [
-      "info.json",
-      "preview.webp",
-      "打包机专区[打包机].zip"
-    ]
-  },
-  "29_8K红石原件自动合成系统V2": {
-    "category": "生产合成",
-    "files": [
-      "29_8K红石原件自动合成系统V2[红石合成站].zip",
-      "info.json",
-      "preview.webp"
-    ]
-  },
-  "512容量编码盒子RAM": {
-    "category": "编码存储科技/其他组件",
+  "sub-1772667666907": {
+    "name": "【1.19+】512 容量编码盒子 RAM",
+    "category": "其他杂物/进阶组件/潜影盒硬盘",
     "files": [
       "disk_drive_512 by wreg.litematic",
       "info.json",
       "preview.png",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "3bf7e4a8c452c1052e804c659712cf57a1cba6d1d522b0a7c17bc7a46e5aaf94"
   },
-  "6bit 6code二进制移位寄存器shift_register_6bit_6codes": {
+  "sub-1778344851014-391": {
+    "name": "远程大宗 By Hua_Jing",
+    "category": "其他杂物",
+    "files": [
+      "Coded storage--By.Hua_Jing[编码相关][远程大宗].litematic",
+      "info.json",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "53c661792c2c4274b555ee19e5653cfbf2ed71c306978a21a7640c411fa565d6"
+  },
+  "sub-1778344851184-888": {
+    "name": "金合欢盒子分类v5 相关设计",
+    "category": "其他杂物",
+    "files": [
+      "info.json",
+      "preview.webp",
+      "thumb.webp",
+      "金合欢盒子分类v5 相关设计[盒子分类].zip"
+    ],
+    "sha256": "d368ae5bf5ad1c4f1cfb33420d57bb74cdb2e6b7d1a858112116754480ed16eb"
+  },
+  "sub-1778344851044-945": {
+    "name": "非矿车 Mis_V5.1",
+    "category": "其他杂物",
+    "files": [
+      "Mis_V5.1[MIS多物品分类].litematic",
+      "info.json",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "88af111453ad39bece59bd184a855ba7aece42ca37dedf336e14f18f08582ce8"
+  },
+  "sub-1778344851136-915": {
+    "name": "分盒器v5.5 by 77",
+    "category": "潜影盒处理/分盒器相关",
+    "files": [
+      "info.json",
+      "preview.webp",
+      "thumb.webp",
+      "分盒器v5.5[分盒器].litematic"
+    ],
+    "sha256": "460cdf079d466f570113e1eed794c6a6179fda7f6290b15d3366fe2117c4ea58"
+  },
+  "sub-1774887018775": {
+    "name": "【1.19+】32倍-64倍速 紧凑型高速分盒器",
+    "category": "潜影盒处理/分盒器相关/潜影盒分盒器",
+    "files": [
+      "Ideal_Splitter_V3-r8.zip",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "62e98b3bfda04ced2b86b8c72fb719f1b3eb7e58e518a80333ef1774ab5a4f46"
+  },
+  "sub-1772665002634": {
+    "name": "【1.19+】wreg 第二代64x高速分盒器",
+    "category": "潜影盒处理/分盒器相关/理想分盒器 (矿车)",
+    "files": [
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp",
+      "高速分盒系列.zip"
+    ],
+    "sha256": "1247c54ebbffcdfa14806cd015589a48d5562f4bc2a87c6fe897ac0184dcf51c"
+  },
+  "sub-1778344850978-107": {
+    "name": "1.16＋自适应均分不满盒暂存v1.2",
+    "category": "潜影盒处理/合并器相关/不满盒临时存储",
+    "files": [
+      "1.16+自适应均分不满盒暂存v1.2 [盒子合并].litematic",
+      "info.json",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "68c580e2d641726a5dd82185e2bd027d61981822aeed4ea758c62649c0d79c18"
+  },
+  "sub-1772665684250": {
+    "name": "【1.19+】wreg初代自适应不满盒暂存",
+    "category": "潜影盒处理/合并器相关/不满盒临时存储",
+    "files": [
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp",
+      "variable temp v3.2 by wreg.litematic"
+    ],
+    "sha256": "2f60ef45f86fccd79134f6af8d803cf0389c2ff849afbae3483f8e0f0e66a663"
+  },
+  "sub-1778344850986-771": {
+    "name": "16gt 多物品分类 v2.0",
+    "category": "潜影盒处理/潜影盒分类相关/潜影盒分类",
+    "files": [
+      "16gt_MBS_77_v2.0[MBS多种类潜影盒分类].litematic",
+      "info.json",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "47d8481a1d44260d5278c8b4d1ed9293f72029c5140e389c281846d69641cc27"
+  },
+  "sub-1772475420526": {
+    "name": "【1.13+】Ners 自解锁潜影盒分类",
+    "category": "潜影盒处理/潜影盒分类相关/潜影盒分类",
+    "files": [
+      "Ners自解锁盒子分类相关.zip",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "4f521d0b8c6eda940ec27717e669d0221777b72ee69bbf3c538ed1e36484ab0c"
+  },
+  "sub-1772558708871": {
+    "name": "【1.16+】简易潜影盒分类",
+    "category": "潜影盒处理/潜影盒分类相关/潜影盒分类",
+    "files": [
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp",
+      "简易潜影盒分类 Simple Box Sorter.litematic"
+    ],
+    "sha256": "32d1dee90478152a0f488f2b11e8e43de0e66f62af99fff34ebc504a53dd0023"
+  },
+  "sub-1772476286973": {
+    "name": "【1.16+】8gt 盒子取样器",
+    "category": "潜影盒处理/潜影盒分类相关/车头及拐弯设计 (Keygen & U-turn)",
+    "files": [
+      "8gt盒子取样器 8gt_keygen.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "2b71bb77e6d4e271632c70e1ab91f1650038f04fae66f7c1cb2c47a43f37819a"
+  },
+  "sub-1772474624236": {
+    "name": "【1.16+】金合欢潜影盒分类-车头及拐弯设计",
+    "category": "潜影盒处理/潜影盒分类相关/车头及拐弯设计 (Keygen & U-turn)",
+    "files": [
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp",
+      "金合欢潜影盒分类-车头及拐弯 Acaciachan_Box_Sorter_Keygen_U-Turn_Ultimate.litematic"
+    ],
+    "sha256": "25521b7fa70fbb435049daaa92eacf502e1c37f893814a04e216fc7b7fdc2bda"
+  },
+  "sub-1778344851129-167": {
+    "name": "三水无残留自出潜影盒展示",
+    "category": "潜影盒处理/潜影盒展示/无残留展示",
+    "files": [
+      "info.json",
+      "preview.webp",
+      "thumb.webp",
+      "三水无残留自出潜影盒展示[潜影盒展示].litematic"
+    ],
+    "sha256": "050a4517efdcf71d8b7815ac215fcd515bb2042bf83aaf2e2bd972c4eecce4a2"
+  },
+  "sub-1778344851097-670": {
+    "name": "细雪展示 by camphorwood",
+    "category": "潜影盒处理/潜影盒展示/细雪展示",
+    "files": [
+      "info.json",
+      "preview.webp",
+      "thumb.webp",
+      "walldisplay_defaultextended[细雪展示 潜影盒展示].litematic"
+    ],
+    "sha256": "335a8cff2322166fb2b452d8d6a83db1e8a95621c37ddc97c16beb12873748ff"
+  },
+  "sub-1778344851179-279": {
+    "name": "终极细雪箱盒展示(44gt)",
+    "category": "潜影盒处理/潜影盒展示",
+    "files": [
+      "info.json",
+      "preview.webp",
+      "thumb.webp",
+      "终极细雪箱盒展示(44gt)[潜影盒展示].litematic"
+    ],
+    "sha256": "c0809549ef55fe561a4747e670754bcf351c9d8e8b3f082f271e0b94656a2210"
+  },
+  "sub-1772643835289": {
+    "name": "【1.17+】Tom 自出盒细雪展示",
+    "category": "潜影盒处理/潜影盒展示/自出盒展示",
+    "files": [
+      "Tom自出盒细雪展示.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "793174c38032f85653a5fc3507fdfa074253434ef6538317c10a06926ecb80a6"
+  },
+  "sub-1772764832049": {
+    "name": "【1.16+】0t 堆肥桶可访问打包",
+    "category": "潜影盒处理/潜影盒打包机/可访问打包",
+    "files": [
+      "0t堆肥桶可访问打包机.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "7092e6e4deb937d424987edb0f0d91e74559cbbcd3624625407a0a10072f5b8a"
+  },
+  "sub-1772667193043": {
+    "name": "【1.19+】对称计数堆分打包",
+    "category": "潜影盒处理/潜影盒打包机/堆分打包",
+    "files": [
+      "ideal堆分打包（mini折半）.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "dd4c235c5c6e7251621da003420e8ab3e828ea7d040b62e28685b77623673a5a"
+  },
+  "sub-1778344851161-358": {
+    "name": "打包机专区 - 金合欢",
+    "category": "潜影盒处理/潜影盒打包机",
+    "files": [
+      "info.json",
+      "preview.webp",
+      "thumb.webp",
+      "打包机专区[打包机].zip"
+    ],
+    "sha256": "aa016b4d07d282aa74cb9a563d48cb8025565a0099bdb1a2b5e87b9873e00d98"
+  },
+  "sub-1777770150840": {
+    "name": "【1.19+】8倍速自适应计数堆分打包",
+    "category": "潜影盒处理/潜影盒打包机/自适应打包",
+    "files": [
+      "8倍速自适应计数堆分打包 By 漾绅.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "ce7c3a0b17762f5e1f24934141aa98d9f815515e7d8773fd31d282a081f4bca0"
+  },
+  "sub-1778344851090-192": {
+    "name": "自适应打包机 V2.1b-r4",
+    "category": "潜影盒处理/潜影盒打包机/自适应打包",
+    "files": [
+      "Variable Filter V2.1b-r4[打包机][自适应打包机].zip",
+      "info.json",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "3eaf55d3d69407c65f5a18633a7586a56581ffe05111a8d068f8ebb20e69fa96"
+  },
+  "sub-1778344851036-569": {
+    "name": "全局重置自适应打包机 v4.4",
+    "category": "潜影盒处理/潜影盒打包机/自适应打包",
+    "files": [
+      "Global reset variable loader 4.4[打包机][自适应打包机].litematic",
+      "info.json",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "f4158f7056d0807672ee765483d63ee70ba4f358313bacfde654ded495cc7866"
+  },
+  "sub-1778344850992-834": {
+    "name": "29_8K红石原件自动合成系统V2",
+    "category": "生产合成/合成站",
+    "files": [
+      "29_8K红石原件自动合成系统V2[红石合成站].zip",
+      "info.json",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "0dafbd147a4312c262af1cba573bcbd7709b07ed6172f8fe6cf4891695a608e7"
+  },
+  "sub-1778344851009-329": {
+    "name": "6bit 6code二进制移位寄存器",
     "category": "编码存储科技/其他组件",
     "files": [
       "6bit 6code二进制移位寄存器shift_register_6bit_6codes[编码相关].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "3f3a2366b60b79343bab2c87e59ee40fa47e2926d3e4e03cf6089d3c52912996"
   },
-  "极简手掏式填充物拦截": {
+  "sub-1777771455413": {
+    "name": "【1.19+】极简手掏式填充物拦截",
     "category": "编码存储科技/其他组件",
     "files": [
       "info.json",
       "preview.png",
       "preview.webp",
+      "thumb.webp",
       "极简手掏式填充物拦截 By 漾绅.litematic"
-    ]
+    ],
+    "sha256": "f5300bd4ee9674595e01c482594765ca641246032836fcff3f13913ecad461eb"
   },
-  "1.13＋ 6-7bit floppy解码器": {
-    "category": "编码存储科技/编码器",
-    "files": [
-      "1.13_6_and_7_Bit_Rail_Bud_Decoders[解码器].litematic",
-      "info.json",
-      "preview.webp"
-    ]
-  },
-  "4bit二进制无状态解码4bit-timing-decoder-dropper-output": {
-    "category": "编码存储科技/编码器",
-    "files": [
-      "4bit二进制无状态解码4bit-timing-decoder-dropper-output[解码器].litematic",
-      "info.json",
-      "preview.webp"
-    ]
-  },
-  "4位2进制解码器4BitBinaryDecoder": {
-    "category": "编码存储科技/编码器",
-    "files": [
-      "4位2进制解码器4BitBinaryDecoder[解码器].litematic",
-      "info.json",
-      "preview.webp"
-    ]
-  },
-  "8bit 二进制安全编码器": {
-    "category": "编码存储科技/编码器",
+  "sub-1772665990091": {
+    "name": "【1.16+】分整流编码双容器全物品主体",
+    "category": "编码存储科技/编码全物品单片/其他编码单片",
     "files": [
       "info.json",
       "preview.png",
       "preview.webp",
-      "八位二进制安全编码器--By.30.litematic"
-    ]
+      "thumb.webp",
+      "分整全编主体.litematic"
+    ],
+    "sha256": "1f38415c1548b30ac2521e9128f2e47c6e0ca642dc831e6f888cd9ba2ffa065a"
   },
-  "Obi 10bit 安全二进制编码器": {
-    "category": "编码存储科技/编码器",
+  "sub-1777730636323": {
+    "name": "[1.16+] 8bit 二进制安全编码器",
+    "category": "编码存储科技/编码器/二进制",
+    "files": [
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp",
+      "八位二进制安全编码器--By.30.litematic"
+    ],
+    "sha256": "ce096344241598d36ba756341c180bd2c41c1785765525499d0176eae6a8a102"
+  },
+  "sub-1774559620756": {
+    "name": "【1.16+】Obi 10bit 安全二进制编码器",
+    "category": "编码存储科技/编码器/二进制",
     "files": [
       "EC06_Item_to_Binary_Encoder_With_Safety_Features.litematic",
       "info.json",
       "preview.png",
-      "preview.webp"
-    ]
-  },
-  "stolen_smol_transcoder": {
-    "category": "编码存储科技/编码器",
-    "files": [
-      "info.json",
       "preview.webp",
-      "stolen_smol_transcoder[编码相关].litematic"
-    ]
+      "thumb.webp"
+    ],
+    "sha256": "4b1bc143bb2cc029df8b3048e7255ef63355876858e6db8dc7659e1a39054737"
   },
-  "盒子解码转串行二进制 4gt 26bit": {
-    "category": "编码存储科技/编码器",
+  "sub-1778344851119-130": {
+    "name": "盒子解码转串行二进制 4gt 26bit",
+    "category": "编码存储科技/编码器/二进制",
     "files": [
       "[盒子解码转串行二进制 4gt 26bit][编码相关].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "0cdc564917d9ad06a5ef3d2ee0ac878473ee4cab625dfc6f708edf5c9e2c1147"
   },
-  "4线四边形大宗": {
-    "category": "编码存储科技/编码大宗仓库",
+  "sub-1778344851004-415": {
+    "name": "4线四边形大宗",
+    "category": "编码存储科技/编码大宗仓库/编码大宗",
     "files": [
       "4line_quad_bulk_final[编码相关][远程大宗].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "6bf642286c13edbe8a7216fefe27562aa6e6a4af09dad3a09df6855120965082"
   },
-  "Elk_Remote_Bulk": {
-    "category": "编码存储科技/编码大宗仓库",
+  "sub-1778344851023-355": {
+    "name": "Elk 远程大宗",
+    "category": "编码存储科技/编码大宗仓库/编码大宗",
     "files": [
       "Elk_Remote_Bulk[编码相关][远程大宗].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "936ba778d3866b578222db1fb31879d75fb7d83d1b01cd6f26a87430c2f16c37"
   },
-  "Encoded Bulk v1.1 by linchien26": {
-    "category": "编码存储科技/编码大宗仓库",
+  "sub-1778344851026-304": {
+    "name": "远程大宗 v1.1 by linchien26",
+    "category": "编码存储科技/编码大宗仓库/编码大宗",
     "files": [
       "Encoded Bulk v1.1 by linchien26[编码相关][远程大宗].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "78ea4df0eee9acd5c2c59af3346058e36b0f672326407afc09a79bb31c0c98e8"
   },
-  "remote_bulk_final": {
-    "category": "编码存储科技/编码大宗仓库",
+  "sub-1778344851077-877": {
+    "name": "远程大宗final",
+    "category": "编码存储科技/编码大宗仓库/编码大宗",
     "files": [
       "info.json",
       "preview.webp",
-      "remote_bulk_final[编码相关][远程大宗].litematic"
-    ]
+      "remote_bulk_final[编码相关][远程大宗].litematic",
+      "thumb.webp"
+    ],
+    "sha256": "b436b8ccf2eab12387b3d790c7fcb02905435c13cc60a50e2a652c14dfaff29f"
   },
-  "小型远程大宗": {
-    "category": "编码存储科技/编码大宗仓库",
+  "sub-1777730271855": {
+    "name": "[1.16+] 小型远程大宗",
+    "category": "编码存储科技/编码大宗仓库/编码大宗",
     "files": [
       "Lu mini bulk.litematic",
       "info.json",
       "preview.png",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "b0af1dc834da8e73b55a94e1aab4282e7ba4b81c015976115f8b1f8c0f2b65f8"
   },
-  "1.20＋全锁不可堆叠打包套装v2.0 by 77 and Breeze": {
-    "category": "非编码存储科技/不可堆叠相关",
+  "sub-1778344850969-309": {
+    "name": "1.13＋ 6-7bit floppy解码器",
+    "category": "编码存储科技/解码器/二进制",
     "files": [
-      "1.20+全锁不可堆叠打包套装v2.0 by 77 & Breeze[不可堆叠分类].litematic",
+      "1.13_6_and_7_Bit_Rail_Bud_Decoders[解码器].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "75e93d3f1ce524d8eecc4bf375f3227a95d5a4de1549d2c2f62d69d5c917896f"
   },
-  "3_6_5防随机不可堆叠分离": {
-    "category": "非编码存储科技/不可堆叠相关",
+  "sub-1778344851002-103": {
+    "name": "4bit二进制无状态解码（Dream解码器）",
+    "category": "编码存储科技/解码器/二进制",
+    "files": [
+      "4bit二进制无状态解码4bit-timing-decoder-dropper-output[解码器].litematic",
+      "info.json",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "7f140541717de2302d7487100a7dffdaf565ce687ce26a60e301f4e46a734112"
+  },
+  "sub-1778344851007-896": {
+    "name": "4位2进制crain解码器",
+    "category": "编码存储科技/解码器/二进制",
+    "files": [
+      "4位2进制解码器4BitBinaryDecoder[解码器].litematic",
+      "info.json",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "d12d53ce70a3a9d2b32336b87d2acd3ba7d4ef1d3e5161c992c27c5d062777ca"
+  },
+  "sub-1778344851083-317": {
+    "name": "二进制车头（转码器）",
+    "category": "编码存储科技/解码器/二进制",
+    "files": [
+      "info.json",
+      "preview.webp",
+      "stolen_smol_transcoder[编码相关].litematic",
+      "thumb.webp"
+    ],
+    "sha256": "cd2b297c4cc93d6ca4533be656890f70f5051909f607811f75921e5fef8ebd1f"
+  },
+  "sub-1772765742396": {
+    "name": "【1.19+】3×6×5 防随机不可堆叠分离",
+    "category": "非编码存储科技/不可堆叠相关/不可堆叠分离",
     "files": [
       "365不可堆叠分离v1.3.litematic",
       "info.json",
       "preview.png",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "6af5231a00abbced0b0b00fae8ff1790f6dd7ddf7f19ca7902c3ac818efde085"
   },
-  "77_不可堆叠分类v3.0": {
-    "category": "非编码存储科技/不可堆叠相关",
+  "sub-1778344850984-889": {
+    "name": "1.20＋全锁不可堆叠打包套装v2.0 by 77 & Breeze",
+    "category": "非编码存储科技/不可堆叠相关/不可堆叠分类",
+    "files": [
+      "1.20+全锁不可堆叠打包套装v2.0 by 77 & Breeze[不可堆叠分类].litematic",
+      "info.json",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "5252c4b76978833fd293dcae7facdf15944170f0912b9643aa07fb0721829384"
+  },
+  "sub-1778344851012-814": {
+    "name": "77_不可堆叠分类v3.0",
+    "category": "非编码存储科技/不可堆叠相关/不可堆叠分类",
     "files": [
       "77_不可堆叠分类v3.0[不可堆叠分类].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "5f8bc0020589e2b8e0bbe06fcc39c7acca37564aec7272a055366f045a89ece9"
   },
-  "CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide": {
-    "category": "非编码存储科技/不可堆叠相关",
+  "sub-1778344851021-846": {
+    "name": "CommandLeo 1.20 不可堆叠分类",
+    "category": "非编码存储科技/不可堆叠相关/不可堆叠分类",
     "files": [
       "CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide[不可堆叠分类].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "b3fec57bd277a6ba182cca032a4da1691610db35405aec959223b822715c7ddd"
   },
-  "PyraLeft 1.20 不可堆叠分类": {
-    "category": "非编码存储科技/不可堆叠相关",
+  "sub-1778344851072-585": {
+    "name": "PyraLeft 1.20 不可堆叠分类",
+    "category": "非编码存储科技/不可堆叠相关/不可堆叠分类",
     "files": [
       "PyraLeft_1.20_Unstackable_Sorter_FHL(1)[不可堆叠分类].litematic",
       "info.json",
       "preview.png",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "aaf5d355d46c0d29a6df8ecc075911ec96e0ea1300f9104933fc82d1fd7e4b87"
   },
-  "PyraLeft_TIS_3w": {
-    "category": "非编码存储科技/全物品单片",
+  "sub-1778344851075-792": {
+    "name": "PyraLeft TIS 全物品单片",
+    "category": "非编码存储科技/全物品单片/10箱单片",
     "files": [
       "PyraLeft_TIS_3w[全物品单片].litematic",
       "info.json",
-      "preview.webp"
-    ]
-  },
-  "分整流编码双容器全物品主体": {
-    "category": "非编码存储科技/全物品单片",
-    "files": [
-      "info.json",
-      "preview.png",
       "preview.webp",
-      "分整全编主体.litematic"
-    ]
+      "thumb.webp"
+    ],
+    "sha256": "610b90a88f74f92ac1a2b7c0e21297119b99b2d8ee5377dbc913003e5f7d200b"
   },
-  "金合欢Leo Ui 10箱全物品单片（主动漏斗）": {
+  "sub-1778344851181-487": {
+    "name": "金合欢Leo Ui 10箱全物品单片（主动漏斗）",
     "category": "非编码存储科技/全物品单片",
     "files": [
       "info.json",
       "preview.webp",
+      "thumb.webp",
       "金合欢Leo Ui 10箱全物品单片（主动漏斗）[全物品单片].litematic"
-    ]
+    ],
+    "sha256": "21bf45f71b4026b090f123c65dffbf2dc01ee723cba023399313bcb81d15a438"
   },
-  "伪1wt矿车多物品": {
-    "category": "非编码存储科技/多物品相关",
+  "sub-1772666784162": {
+    "name": "【1.19+】伪 1wt 矿车多物品",
+    "category": "非编码存储科技/多物品相关/多物品分类 (MIS)",
     "files": [
       "info.json",
       "preview.png",
       "preview.webp",
+      "thumb.webp",
       "伪1wt 16gt矿车多物品（最终版）.litematic"
-    ]
+    ],
+    "sha256": "86ba68f30f1992e6eecd614548334895d48d56d7d114317623965d4bfbbe2e66"
   },
-  "1.18_QuadBulk_Normal_FULL_V7.2": {
-    "category": "非编码存储科技/大宗仓库",
+  "sub-1778344850981-773": {
+    "name": "1.18 四边形大宗 v7.2",
+    "category": "非编码存储科技/大宗仓库/四边形大宗",
     "files": [
       "1.18_QuadBulk_Normal_FULL_V7.2[四边形大宗].litematic",
       "info.json",
-      "preview.webp"
-    ]
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "1ecbb22f8690fd1532913e703eb238e1f0f51e1c5f99b8355e61009d2a47cd22"
   },
-  "7宽盒子分类大宗": {
-    "category": "非编码存储科技/大宗仓库",
+  "sub-1778344851169-799": {
+    "name": "水流收集四边形大宗 by Yi_Breeze",
+    "category": "非编码存储科技/大宗仓库/四边形大宗",
+    "files": [
+      "info.json",
+      "preview.webp",
+      "thumb.webp",
+      "水流收集四边形大宗 by Yi_Breeze[四边形大宗][编码相关].litematic"
+    ],
+    "sha256": "983df2b1e2a18aefba439ddc642e0993a2f404b694d7bce99a199bab301478b3"
+  },
+  "sub-1774646113585": {
+    "name": "【1.17+】7宽盒子分类大宗",
+    "category": "非编码存储科技/大宗仓库/盒分大宗",
     "files": [
       "7宽大宗带盒展 by anchun.litematic",
       "info.json",
       "preview.png",
-      "preview.webp"
-    ]
-  },
-  "水流收集四边形大宗 by Yi_Breeze": {
-    "category": "非编码存储科技/大宗仓库",
-    "files": [
-      "info.json",
       "preview.webp",
-      "水流收集四边形大宗 by Yi_Breeze[四边形大宗][编码相关].litematic"
-    ]
+      "thumb.webp"
+    ],
+    "sha256": "c8c5e662fecb7e3cf0a10bbaf493947b8fa47e56a9ac3d37fd62d66548f39521"
   },
-  "火把塔全物品大宗": {
-    "category": "非编码存储科技/大宗仓库",
+  "sub-1775130765367": {
+    "name": "【1.19+】火把塔全物品大宗",
+    "category": "非编码存储科技/大宗仓库/盒分大宗",
     "files": [
       "info.json",
       "preview.png",
       "preview.webp",
+      "thumb.webp",
       "全物品大宗v1.2 byX1aoHe1.litematic"
-    ]
+    ],
+    "sha256": "52b67cd6e7263aedaab8ab683de30c20e42f8e25ee6ff68abc1836409f80c9e3"
   }
 }

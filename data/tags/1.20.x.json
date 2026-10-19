@@ -1,6 +1,6 @@
 [
   {
-    "id": "1.20＋全锁不可堆叠打包套装v2.0 by 77 and Breeze",
+    "id": "sub-1778344850984-889",
     "name": "1.20＋全锁不可堆叠打包套装v2.0 by 77 & Breeze",
     "author": "77 & Breeze",
     "tags": [
@@ -9,13 +9,14 @@
       "1.20.x"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 未知\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 机器介绍：未知",
-    "category": "非编码存储科技/不可堆叠相关",
-    "preview": "/content/非编码存储科技/不可堆叠相关/1.20＋全锁不可堆叠打包套装v2.0 by 77 and Breeze/preview.webp",
+    "category": "非编码存储科技/不可堆叠相关/不可堆叠分类",
+    "preview": "/content/非编码存储科技/不可堆叠相关/不可堆叠分类/1.20＋全锁不可堆叠打包套装v2.0 by 77 and Breeze/preview.webp",
+    "thumb": "/content/非编码存储科技/不可堆叠相关/不可堆叠分类/1.20＋全锁不可堆叠打包套装v2.0 by 77 and Breeze/thumb.webp",
     "filename": "1.20+全锁不可堆叠打包套装v2.0 by 77 & Breeze[不可堆叠分类].litematic",
-    "sub_id": "sub-1778344850984-889"
+    "sha256": "5252c4b76978833fd293dcae7facdf15944170f0912b9643aa07fb0721829384"
   },
   {
-    "id": "77_不可堆叠分类v3.0",
+    "id": "sub-1778344851012-814",
     "name": "77_不可堆叠分类v3.0",
     "author": "77",
     "tags": [
@@ -24,13 +25,14 @@
       "1.20.x"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将不可堆叠分类，并根据种类送入相应的容器内\n- **适用版本**: Java 1.20+\n- **投影创建者名称**: Beggar_boss\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "category": "非编码存储科技/不可堆叠相关",
-    "preview": "/content/非编码存储科技/不可堆叠相关/77_不可堆叠分类v3.0/preview.webp",
+    "category": "非编码存储科技/不可堆叠相关/不可堆叠分类",
+    "preview": "/content/非编码存储科技/不可堆叠相关/不可堆叠分类/77_不可堆叠分类v3.0/preview.webp",
+    "thumb": "/content/非编码存储科技/不可堆叠相关/不可堆叠分类/77_不可堆叠分类v3.0/thumb.webp",
     "filename": "77_不可堆叠分类v3.0[不可堆叠分类].litematic",
-    "sub_id": "sub-1778344851012-814"
+    "sha256": "5f8bc0020589e2b8e0bbe06fcc39c7acca37564aec7272a055366f045a89ece9"
   },
   {
-    "id": "CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide",
+    "id": "sub-1778344851021-846",
     "name": "CommandLeo 1.20 不可堆叠分类",
     "author": "CommandLeo",
     "tags": [
@@ -39,13 +41,14 @@
       "1.20.x"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将不可堆叠分类，并根据种类送入相应的容器内\n- **适用版本**: Java 1.20+\n- **投影创建者名称**: CommandLeo\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
-    "category": "非编码存储科技/不可堆叠相关",
-    "preview": "/content/非编码存储科技/不可堆叠相关/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide/preview.webp",
+    "category": "非编码存储科技/不可堆叠相关/不可堆叠分类",
+    "preview": "/content/非编码存储科技/不可堆叠相关/不可堆叠分类/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide/preview.webp",
+    "thumb": "/content/非编码存储科技/不可堆叠相关/不可堆叠分类/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide/thumb.webp",
     "filename": "CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide[不可堆叠分类].litematic",
-    "sub_id": "sub-1778344851021-846"
+    "sha256": "b3fec57bd277a6ba182cca032a4da1691610db35405aec959223b822715c7ddd"
   },
   {
-    "id": "luckeY MS",
+    "id": "sub-1778344851046-949",
     "name": "luckeY 全物品",
     "author": "Kendiii",
     "tags": [
@@ -54,13 +57,14 @@
       "全物品仓库"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: \n  - 为匈牙利主播 luckeY 设计的全物品系统，将mc生存可获得的所有物品全部分类。\n  - 杂盒流程\n  - 85%锁漏斗\n  - 小宗系统\n  - 其他生存实用组件\n  - 少材料（61831个方块）+ 高效率（144000物品/h）\n- **适用版本**: Java 1.20+\n- **投影创建者名称**: Unknown\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 如果输入的盒子数量过多，盒子可能会消失。\n3. 无溢出保护。如果输入的物品过多或箱子已满，物品可能会消失。",
-    "category": "其他杂物/仓库成品",
-    "preview": "/content/其他杂物/仓库成品/luckeY MS/preview.webp",
+    "category": "其他杂物/仓库成品/全物品仓库",
+    "preview": "/content/其他杂物/仓库成品/全物品仓库/luckeY MS/preview.webp",
+    "thumb": "/content/其他杂物/仓库成品/全物品仓库/luckeY MS/thumb.webp",
     "filename": "MS001_luckeY_Main_Storage[[仓库成品]].litematic",
-    "sub_id": "sub-1778344851046-949"
+    "sha256": "5f077f77be1f9e4f1651d7c62c4f4c77230794d06e447944957e0c644ce501bc"
   },
   {
-    "id": "PyraLeft 1.20 不可堆叠分类",
+    "id": "sub-1778344851072-585",
     "name": "PyraLeft 1.20 不可堆叠分类",
     "author": "PyraLeft",
     "tags": [
@@ -69,13 +73,14 @@
       "1.20.x"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: 将不可堆叠分类，并根据种类送入相应的容器内\n- **适用版本**: Java 1.20+\n- **投影创建者名称**: PyraLeft \n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n",
-    "category": "非编码存储科技/不可堆叠相关",
-    "preview": "/content/非编码存储科技/不可堆叠相关/PyraLeft 1.20 不可堆叠分类/preview.webp",
+    "category": "非编码存储科技/不可堆叠相关/不可堆叠分类",
+    "preview": "/content/非编码存储科技/不可堆叠相关/不可堆叠分类/PyraLeft 1.20 不可堆叠分类/preview.webp",
+    "thumb": "/content/非编码存储科技/不可堆叠相关/不可堆叠分类/PyraLeft 1.20 不可堆叠分类/thumb.webp",
     "filename": "PyraLeft_1.20_Unstackable_Sorter_FHL(1)[不可堆叠分类].litematic",
-    "sub_id": "sub-1778344851072-585"
+    "sha256": "aaf5d355d46c0d29a6df8ecc075911ec96e0ea1300f9104933fc82d1fd7e4b87"
   },
   {
-    "id": "YAMS V2.3 MB 1.20",
+    "id": "sub-1778344851100-809",
     "name": "YAMS V2.3 大宗版本",
     "author": "skyzy & Passionate Storage Techer 69 & TPS Nighthunter",
     "tags": [
@@ -84,9 +89,10 @@
       "全物品仓库"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**: \n  - 将mc生存可获得的所有物品全部分类。仓库基于杂盒流程，拥有低卡顿，效率优秀等特点（144000物品/h）\n  - 大宗拥有150w的储量\n  - 100%锁漏斗\n  - 所有的分类器都可访问\n  - 区块加载失败检测器\n  - 友好的耗材（78493个方块）\n  - 其他生存实用组件\n\n- **适用版本**: Java 1.16+\n- **投影创建者名称**: Etikle\n- **投影创建时间**: 2026-05-09\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 使用时，切记注意勿卸载区块",
-    "category": "其他杂物/仓库成品",
-    "preview": "/content/其他杂物/仓库成品/YAMS V2.3 MB 1.20/preview.webp",
+    "category": "其他杂物/仓库成品/全物品仓库",
+    "preview": "/content/其他杂物/仓库成品/全物品仓库/YAMS V2.3 MB 1.20/preview.webp",
+    "thumb": "/content/其他杂物/仓库成品/全物品仓库/YAMS V2.3 MB 1.20/thumb.webp",
     "filename": "YAMS V2.3 MB 1.20[仓库成品].litematic",
-    "sub_id": "sub-1778344851100-809"
+    "sha256": "bf3750e6e2ee8664a6d81710b8fddaedee02041c7fab05e6dccf1df2ef92f19e"
   }
 ]

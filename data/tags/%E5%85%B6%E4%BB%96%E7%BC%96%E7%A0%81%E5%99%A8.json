@@ -1,6 +1,6 @@
 [
   {
-    "id": "Obi 10bit 安全二进制编码器",
+    "id": "sub-1774559620756",
     "name": "【1.16+】Obi 10bit 安全二进制编码器",
     "author": "Obi",
     "tags": [
@@ -10,9 +10,10 @@
       "编码器"
     ],
     "description": "### 🚀 机器概览\n- **核心功能**:  \n将物品转成10位的二进制码\n- **适用版本**: Java 1.16+\n- **投影创建者**：Obi81\n- **投影创建时间**：2023-05-18\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装\n2. 编码器可自由缩短/加长。请为此注意每一片的充能\n\n> 提示：本机器拥有安全性保护",
-    "category": "编码存储科技/编码器",
-    "preview": "/content/编码存储科技/编码器/Obi 10bit 安全二进制编码器/preview.webp",
+    "category": "编码存储科技/编码器/二进制",
+    "preview": "/content/编码存储科技/编码器/二进制/Obi 10bit 安全二进制编码器/preview.webp",
+    "thumb": "/content/编码存储科技/编码器/二进制/Obi 10bit 安全二进制编码器/thumb.webp",
     "filename": "EC06_Item_to_Binary_Encoder_With_Safety_Features.litematic",
-    "sub_id": "sub-1774559620756"
+    "sha256": "4b1bc143bb2cc029df8b3048e7255ef63355876858e6db8dc7659e1a39054737"
   }
 ]
