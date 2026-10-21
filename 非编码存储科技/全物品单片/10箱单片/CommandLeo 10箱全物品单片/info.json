@@ -1,0 +1,15 @@
+{
+    "id": "sub-1787336349619",
+    "name": "CommandLeo 10箱全物品单片",
+    "author": "CommandLeo",
+    "tags": [
+        "10箱单片",
+        "全物品单片",
+        "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 经典UI布局的全物品单片，漏斗全锁，无主动漏斗\n- **适用版本**: Java 1.16+\n- **投影创建者**: CommandLeo\n- **投影创建时间**: 2022-09-02\n- **原理图版本**: 2975\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 使用时直接复制堆叠即可。",
+    "folder": "CommandLeo 10箱全物品单片",
+    "preview": "preview.png",
+    "filename": "10_Chest_SSI_Chest_Hall_by_CommandLeo.litematic",
+    "submitDate": "2026-08-21T18:19:09.619Z"
+}
