@@ -30,5 +30,22 @@
     "thumb": "/content/非编码存储科技/大宗仓库/四边形大宗/水流收集四边形大宗 by Yi_Breeze/thumb.webp",
     "filename": "水流收集四边形大宗 by Yi_Breeze[四边形大宗][编码相关].litematic",
     "sha256": "983df2b1e2a18aefba439ddc642e0993a2f404b694d7bce99a199bab301478b3"
+  },
+  {
+    "id": "sub-1792611783054",
+    "name": "四边形大宗 by Lirrum",
+    "author": "Lirrum",
+    "tags": [
+      "盒分大宗",
+      "大宗仓库",
+      "四边形大宗",
+      "1.19+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 分类储存大宗物品盒\n- **适用版本**: Java 1.19+\n- **投影创建者名称**：Lirrum\n- **投影创建时间**：2026-07-26\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装\n2. 可自行扩片，注意顶部盒分类是2wABt的，中间的锁线和传输线需要灵活扩展\n\n### 借物表与致谢\n盒分类 来自 金合欢（acaciachan）\n底部箱盒展示 来自 77（Beggar_Boss）和汞宝（bbhg_）\n感谢 骨粉（Gufenjava）对修改盒分类和测试提供的帮助",
+    "category": "非编码存储科技/大宗仓库/盒分大宗",
+    "preview": "/content/非编码存储科技/大宗仓库/盒分大宗/四边形大宗 by Lirrum/preview.webp",
+    "thumb": "/content/非编码存储科技/大宗仓库/盒分大宗/四边形大宗 by Lirrum/thumb.webp",
+    "filename": "四边形大宗.litematic",
+    "sha256": "578cffa334e78667bc2ffe0d7225be8596f15406afeb08117360e4c9260e0a7d"
   }
 ]

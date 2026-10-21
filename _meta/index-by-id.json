@@ -780,6 +780,18 @@
     ],
     "sha256": "d12d53ce70a3a9d2b32336b87d2acd3ba7d4ef1d3e5161c992c27c5d062777ca"
   },
+  "sub-1792611782831": {
+    "name": "6位crain解码车头",
+    "category": "编码存储科技/编码器/二进制",
+    "files": [
+      "6位crain解码器 by awszqsedxzaw.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "ca448c4540faef4d3db20993a4de8590927ec5eb8c7565c4b89e2eef5127add6"
+  },
   "sub-1778344851083-317": {
     "name": "二进制车头（转码器）",
     "category": "编码存储科技/解码器/二进制",
@@ -1001,6 +1013,18 @@
     ],
     "sha256": "1ecbb22f8690fd1532913e703eb238e1f0f51e1c5f99b8355e61009d2a47cd22"
   },
+  "sub-1792611783054": {
+    "name": "四边形大宗 by Lirrum",
+    "category": "非编码存储科技/大宗仓库/盒分大宗",
+    "files": [
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp",
+      "四边形大宗.litematic"
+    ],
+    "sha256": "578cffa334e78667bc2ffe0d7225be8596f15406afeb08117360e4c9260e0a7d"
+  },
   "sub-1778344851169-799": {
     "name": "水流收集四边形大宗 by Yi_Breeze",
     "category": "非编码存储科技/大宗仓库/四边形大宗",
@@ -1023,6 +1047,18 @@
       "thumb.webp"
     ],
     "sha256": "c8c5e662fecb7e3cf0a10bbaf493947b8fa47e56a9ac3d37fd62d66548f39521"
+  },
+  "sub-1792611783500": {
+    "name": "可双轴扩展单片快速解锁大宗V1.1",
+    "category": "非编码存储科技/大宗仓库/盒分大宗",
+    "files": [
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp",
+      "可双轴扩展单片快速解锁大宗V1.1.litematic"
+    ],
+    "sha256": "3b116a683315f125e6b084c3b657c678acc0ac0e4303977742b527e6a0dc9188"
   },
   "sub-1775130765367": {
     "name": "【1.19+】火把塔全物品大宗",
