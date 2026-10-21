@@ -1,5 +1,73 @@
 [
   {
+    "id": "sub-1792610119137",
+    "name": "10箱全物品单片v2.1 by 77",
+    "author": "Saitama77",
+    "tags": [
+      "逻辑电路",
+      "逻辑/传输",
+      "10箱单片",
+      "全物品单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 10箱全锁全物品单片，无主动漏斗\n- **适用版本**: Java 1.16+\n- **投影创建者**: Beggar_boss\n- **投影创建时间**: 2023-11-01\n- **原理图版本**: 3465\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/10箱单片/10箱全物品单片v2.1 by 77/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/10箱单片/10箱全物品单片v2.1 by 77/thumb.webp",
+    "filename": "10_chesthall_v2.1_77.litematic",
+    "sha256": "7e75c388d6f4a1d0fa7d2d3652a1cf046d6c8709b65615db518d2589a653df11"
+  },
+  {
+    "id": "sub-1792610119447",
+    "name": "10箱少漏斗强模分类单片",
+    "author": "KiKuGie",
+    "tags": [
+      "全物品单片",
+      "10箱单片",
+      "其他单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 使用强模特性进行分类的全物品单片，美观方正\n- **适用版本**: Java 1.16 - Java 1.20.2\n- **投影创建者**: KiKuGie\n- **投影创建时间**: 2022-08-12\n- **原理图版本**: 2566\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 使用时直接复制堆叠即可。\n\n>注意: 此投影需在 1.20.2 以下版本使用",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/10箱单片/10箱少漏斗强模分类单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/10箱单片/10箱少漏斗强模分类单片/thumb.webp",
+    "filename": "10I2DHFHLBLOSCH_fix_by_KikuGie.litematic",
+    "sha256": "3b6990339a7c8b8d2dce53aa90053d3cb25d294a49ed30c29e147215ad4fe98b"
+  },
+  {
+    "id": "sub-1792610120288",
+    "name": "全锁无堆叠附魔书 KiKuGie 双箱单片",
+    "author": "WregR",
+    "tags": [
+      "逻辑/传输",
+      "10箱单片",
+      "全物品单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: KiKuGie 强模双箱单片的改版，使用 SS2 分类器替代了强模分类器\n- **适用版本**: Java 1.16+\n- **投影创建者**: wreg\n- **投影创建时间**: 2023-05-11\n- **原理图版本**: 3120\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/10箱单片/全锁无堆叠附魔书 KiKuGie 双箱单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/10箱单片/全锁无堆叠附魔书 KiKuGie 双箱单片/thumb.webp",
+    "filename": "全锁ab双倍储量五箱无附魔书全物品单片.litematic",
+    "sha256": "15318c8f647e8790412104fbc9c245231731d06b4bcfe3fdef64ec654dcffd10"
+  },
+  {
+    "id": "sub-1792610119737",
+    "name": "CommandLeo 10箱全物品单片",
+    "author": "CommandLeo",
+    "tags": [
+      "10箱单片",
+      "全物品单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 经典UI布局的全物品单片，漏斗全锁，无主动漏斗\n- **适用版本**: Java 1.16+\n- **投影创建者**: CommandLeo\n- **投影创建时间**: 2022-09-02\n- **原理图版本**: 2975\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 使用时直接复制堆叠即可。",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/10箱单片/CommandLeo 10箱全物品单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/10箱单片/CommandLeo 10箱全物品单片/thumb.webp",
+    "filename": "10_Chest_SSI_Chest_Hall_by_CommandLeo.litematic",
+    "sha256": "ee27a0367fb5d42c0084b9840d58cf6a7d5fa6100401df1d383c39b6817cbfcc"
+  },
+  {
     "id": "sub-1778344851075-792",
     "name": "PyraLeft TIS 全物品单片",
     "author": "PyraLeft",
@@ -14,5 +82,21 @@
     "thumb": "/content/非编码存储科技/全物品单片/10箱单片/PyraLeft_TIS_3w/thumb.webp",
     "filename": "PyraLeft_TIS_3w[全物品单片].litematic",
     "sha256": "610b90a88f74f92ac1a2b7c0e21297119b99b2d8ee5377dbc913003e5f7d200b"
+  },
+  {
+    "id": "sub-1792610119989",
+    "name": "TIS布局10箱全物品单片",
+    "author": "金合欢酱",
+    "tags": [
+      "10箱单片",
+      "全物品单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 采用TIS布局的全物品单片，漏斗全锁\n- **适用版本**: Java 1.16+\n- **投影创建者**: acaciachan\n- **投影创建时间**: 2023-08-24\n- **原理图版本**: 3465\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 单片左右两侧非对称，采用了两种不同的底层设计，可按需自选。",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/10箱单片/TIS布局10箱全物品单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/10箱单片/TIS布局10箱全物品单片/thumb.webp",
+    "filename": "TIS_layout_5_chest_hall.litematic",
+    "sha256": "c04636e2570c23e245f40ff6268c759ea0feb894a4b8631b74bbf9dfa3d4fec2"
   }
 ]

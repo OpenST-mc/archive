@@ -127,6 +127,41 @@
     "sha256": "5252c4b76978833fd293dcae7facdf15944170f0912b9643aa07fb0721829384"
   },
   {
+    "id": "sub-1792610119137",
+    "name": "10箱全物品单片v2.1 by 77",
+    "author": "Saitama77",
+    "tags": [
+      "逻辑电路",
+      "逻辑/传输",
+      "10箱单片",
+      "全物品单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 10箱全锁全物品单片，无主动漏斗\n- **适用版本**: Java 1.16+\n- **投影创建者**: Beggar_boss\n- **投影创建时间**: 2023-11-01\n- **原理图版本**: 3465\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/10箱单片/10箱全物品单片v2.1 by 77/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/10箱单片/10箱全物品单片v2.1 by 77/thumb.webp",
+    "filename": "10_chesthall_v2.1_77.litematic",
+    "sha256": "7e75c388d6f4a1d0fa7d2d3652a1cf046d6c8709b65615db518d2589a653df11"
+  },
+  {
+    "id": "sub-1792610119447",
+    "name": "10箱少漏斗强模分类单片",
+    "author": "KiKuGie",
+    "tags": [
+      "全物品单片",
+      "10箱单片",
+      "其他单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 使用强模特性进行分类的全物品单片，美观方正\n- **适用版本**: Java 1.16 - Java 1.20.2\n- **投影创建者**: KiKuGie\n- **投影创建时间**: 2022-08-12\n- **原理图版本**: 2566\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 使用时直接复制堆叠即可。\n\n>注意: 此投影需在 1.20.2 以下版本使用",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/10箱单片/10箱少漏斗强模分类单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/10箱单片/10箱少漏斗强模分类单片/thumb.webp",
+    "filename": "10I2DHFHLBLOSCH_fix_by_KikuGie.litematic",
+    "sha256": "3b6990339a7c8b8d2dce53aa90053d3cb25d294a49ed30c29e147215ad4fe98b"
+  },
+  {
     "id": "sub-1778344850986-771",
     "name": "16gt 多物品分类 v2.0",
     "author": "77",
@@ -206,6 +241,22 @@
     "sha256": "62e98b3bfda04ced2b86b8c72fb719f1b3eb7e58e518a80333ef1774ab5a4f46"
   },
   {
+    "id": "sub-1792610121185",
+    "name": "3种类双箱可访问分类单片",
+    "author": "PyraLeft",
+    "tags": [
+      "全物品单片",
+      "其他单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 可访问双箱单片，相比常规全物品单片多了一倍的储量，但单片的分类密度有所下降，漏斗全锁\n- **适用版本**: Java 1.16+\n- **投影创建者**: PyraLeft\n- **投影创建时间**: 2024-03-23\n- **原理图版本**: 2730\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 该设计为实验性设计，未必具有实装价值，重在思路分享。",
+    "category": "非编码存储科技/全物品单片/其他单片",
+    "preview": "/content/非编码存储科技/全物品单片/其他单片/3种类双箱可访问分类单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/其他单片/3种类双箱可访问分类单片/thumb.webp",
+    "filename": "PyraLeft_6dc_ALL_ACCESSIBLE.litematic",
+    "sha256": "cd5378a7673248533288b25e1b886cfeb1b760c0ec1c99295dcf07b8fe23a188"
+  },
+  {
     "id": "sub-1778344851007-896",
     "name": "4位2进制crain解码器",
     "author": "Unknown",
@@ -238,6 +289,21 @@
     "thumb": "/content/编码存储科技/编码大宗仓库/编码大宗/4线四边形大宗/thumb.webp",
     "filename": "4line_quad_bulk_final[编码相关][远程大宗].litematic",
     "sha256": "6bf642286c13edbe8a7216fefe27562aa6e6a4af09dad3a09df6855120965082"
+  },
+  {
+    "id": "sub-1792610120577",
+    "name": "4箱真全锁单片",
+    "author": "bbhg & vincent",
+    "tags": [
+      "8箱单片",
+      "全物品单片"
+    ],
+    "description": "### 🚀 机器概览（示例）\n- **核心功能**: 单侧 4 箱的全锁全物品单片\n- **适用版本**: Java 1.16+\n- **投影创建者**: vincent20080201\n- **投影创建时间**: 2025-04-20\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 单侧单片中仅 1 处漏斗的解锁时长 > 8gt。\n\n",
+    "category": "非编码存储科技/全物品单片/8箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/8箱单片/4箱真全锁单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/8箱单片/4箱真全锁单片/thumb.webp",
+    "filename": "4箱真全锁单片.litematic",
+    "sha256": "4b92f47cf2a5a2b4224e7f1edcb1b6ce647ebfcd15cfb53578ff51a1e7b48afc"
   },
   {
     "id": "sub-1778344851002-103",
@@ -335,6 +401,22 @@
     "thumb": "/content/潜影盒处理/潜影盒打包机/自适应打包/8倍速自适应计数堆分打包/thumb.webp",
     "filename": "8倍速自适应计数堆分打包 By 漾绅.litematic",
     "sha256": "ce7c3a0b17762f5e1f24934141aa98d9f815515e7d8773fd31d282a081f4bca0"
+  },
+  {
+    "id": "sub-1792610120869",
+    "name": "8箱少漏斗8gt延迟全物品单片",
+    "author": "dozzyyy",
+    "tags": [
+      "1.16+",
+      "8箱单片",
+      "全物品单片"
+    ],
+    "description": "### 🚀 机器概览（示例）\n- **核心功能**: 单侧11漏斗，全锁，布局优雅合理\n- **适用版本**: Java 1.16+\n- **投影创建者**: dozzyyy\n- **投影创建时间**: 2022-06-02\n- **原理图版本**: 2730\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 单片最底侧的主动漏斗为 8gt 解锁，使用整流器时需注意适配。\n",
+    "category": "非编码存储科技/全物品单片/8箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/8箱单片/8箱少漏斗8gt延迟全物品单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/8箱单片/8箱少漏斗8gt延迟全物品单片/thumb.webp",
+    "filename": "8箱少漏斗8gt延迟 11_hopper_8_item_full_locked_chest_hall.litematic",
+    "sha256": "5ad50d1529ab08bb0354e1c85cc6d7996635103c6f6f0e84d061e699633042a1"
   },
   {
     "id": "sub-1777730636323",
@@ -767,6 +849,23 @@
     "sha256": "2f60eb7e46b219444365d25ad6af3160c3268ab9d5b00cd6e781e5e72d43094d"
   },
   {
+    "id": "sub-1792610120288",
+    "name": "全锁无堆叠附魔书 KiKuGie 双箱单片",
+    "author": "WregR",
+    "tags": [
+      "逻辑/传输",
+      "10箱单片",
+      "全物品单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: KiKuGie 强模双箱单片的改版，使用 SS2 分类器替代了强模分类器\n- **适用版本**: Java 1.16+\n- **投影创建者**: wreg\n- **投影创建时间**: 2023-05-11\n- **原理图版本**: 3120\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/10箱单片/全锁无堆叠附魔书 KiKuGie 双箱单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/10箱单片/全锁无堆叠附魔书 KiKuGie 双箱单片/thumb.webp",
+    "filename": "全锁ab双倍储量五箱无附魔书全物品单片.litematic",
+    "sha256": "15318c8f647e8790412104fbc9c245231731d06b4bcfe3fdef64ec654dcffd10"
+  },
+  {
     "id": "sub-1778344851029-716",
     "name": "全锁无实体输入系列",
     "author": "Unknown",
@@ -873,6 +972,21 @@
     "thumb": "/content/非编码存储科技/大宗仓库/四边形大宗/水流收集四边形大宗 by Yi_Breeze/thumb.webp",
     "filename": "水流收集四边形大宗 by Yi_Breeze[四边形大宗][编码相关].litematic",
     "sha256": "983df2b1e2a18aefba439ddc642e0993a2f404b694d7bce99a199bab301478b3"
+  },
+  {
+    "id": "sub-1792610118928",
+    "name": "投掷器轮询主控",
+    "author": "Unknow",
+    "tags": [
+      "逻辑电路",
+      "逻辑/传输"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 用于投掷器轮询的主控模块\n- **适用版本**: Java 1.16+\n- **投影创建者**: Trice054\n- **投影创建时间**: 2026-08-22\n- **原理图版本**: 3953\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。",
+    "category": "编码存储科技/逻辑-传输/逻辑电路",
+    "preview": "/content/编码存储科技/逻辑-传输/逻辑电路/投掷器轮询主控/preview.webp",
+    "thumb": "/content/编码存储科技/逻辑-传输/逻辑电路/投掷器轮询主控/thumb.webp",
+    "filename": "投掷器轮询主控.litematic",
+    "sha256": "d9cc03b4cfc76ccc4cbdd130bfbb399b62871440f94230618b9ff3db34858f4c"
   },
   {
     "id": "sub-1772666784162",
@@ -1046,6 +1160,22 @@
     "thumb": "/content/其他杂物/仓库成品/全物品仓库/CMIS-V5/thumb.webp",
     "filename": "CMIS-V5.0.litematic",
     "sha256": "7fb063f2098cc851dbc56185757e7af33cb40149bbfa69537da2634c15784f21"
+  },
+  {
+    "id": "sub-1792610119737",
+    "name": "CommandLeo 10箱全物品单片",
+    "author": "CommandLeo",
+    "tags": [
+      "10箱单片",
+      "全物品单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 经典UI布局的全物品单片，漏斗全锁，无主动漏斗\n- **适用版本**: Java 1.16+\n- **投影创建者**: CommandLeo\n- **投影创建时间**: 2022-09-02\n- **原理图版本**: 2975\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 使用时直接复制堆叠即可。",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/10箱单片/CommandLeo 10箱全物品单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/10箱单片/CommandLeo 10箱全物品单片/thumb.webp",
+    "filename": "10_Chest_SSI_Chest_Hall_by_CommandLeo.litematic",
+    "sha256": "ee27a0367fb5d42c0084b9840d58cf6a7d5fa6100401df1d383c39b6817cbfcc"
   },
   {
     "id": "sub-1778344851021-846",
@@ -1229,6 +1359,22 @@
     "thumb": "/content/编码存储科技/解码器/二进制/stolen_smol_transcoder/thumb.webp",
     "filename": "stolen_smol_transcoder[编码相关].litematic",
     "sha256": "cd2b297c4cc93d6ca4533be656890f70f5051909f607811f75921e5fef8ebd1f"
+  },
+  {
+    "id": "sub-1792610119989",
+    "name": "TIS布局10箱全物品单片",
+    "author": "金合欢酱",
+    "tags": [
+      "10箱单片",
+      "全物品单片",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览\n- **核心功能**: 采用TIS布局的全物品单片，漏斗全锁\n- **适用版本**: Java 1.16+\n- **投影创建者**: acaciachan\n- **投影创建时间**: 2023-08-24\n- **原理图版本**: 3465\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装。\n2. 单片左右两侧非对称，采用了两种不同的底层设计，可按需自选。",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "preview": "/content/非编码存储科技/全物品单片/10箱单片/TIS布局10箱全物品单片/preview.webp",
+    "thumb": "/content/非编码存储科技/全物品单片/10箱单片/TIS布局10箱全物品单片/thumb.webp",
+    "filename": "TIS_layout_5_chest_hall.litematic",
+    "sha256": "c04636e2570c23e245f40ff6268c759ea0feb894a4b8631b74bbf9dfa3d4fec2"
   },
   {
     "id": "sub-1772643835289",

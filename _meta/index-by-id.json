@@ -791,6 +791,18 @@
     ],
     "sha256": "cd2b297c4cc93d6ca4533be656890f70f5051909f607811f75921e5fef8ebd1f"
   },
+  "sub-1792610118928": {
+    "name": "投掷器轮询主控",
+    "category": "编码存储科技/逻辑-传输/逻辑电路",
+    "files": [
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp",
+      "投掷器轮询主控.litematic"
+    ],
+    "sha256": "d9cc03b4cfc76ccc4cbdd130bfbb399b62871440f94230618b9ff3db34858f4c"
+  },
   "sub-1772765742396": {
     "name": "【1.19+】3×6×5 防随机不可堆叠分离",
     "category": "非编码存储科技/不可堆叠相关/不可堆叠分离",
@@ -848,6 +860,42 @@
     ],
     "sha256": "aaf5d355d46c0d29a6df8ecc075911ec96e0ea1300f9104933fc82d1fd7e4b87"
   },
+  "sub-1792610119137": {
+    "name": "10箱全物品单片v2.1 by 77",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "files": [
+      "10_chesthall_v2.1_77.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "7e75c388d6f4a1d0fa7d2d3652a1cf046d6c8709b65615db518d2589a653df11"
+  },
+  "sub-1792610119447": {
+    "name": "10箱少漏斗强模分类单片",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "files": [
+      "10I2DHFHLBLOSCH_fix_by_KikuGie.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "3b6990339a7c8b8d2dce53aa90053d3cb25d294a49ed30c29e147215ad4fe98b"
+  },
+  "sub-1792610119737": {
+    "name": "CommandLeo 10箱全物品单片",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "files": [
+      "10_Chest_SSI_Chest_Hall_by_CommandLeo.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "ee27a0367fb5d42c0084b9840d58cf6a7d5fa6100401df1d383c39b6817cbfcc"
+  },
   "sub-1778344851075-792": {
     "name": "PyraLeft TIS 全物品单片",
     "category": "非编码存储科技/全物品单片/10箱单片",
@@ -858,6 +906,66 @@
       "thumb.webp"
     ],
     "sha256": "610b90a88f74f92ac1a2b7c0e21297119b99b2d8ee5377dbc913003e5f7d200b"
+  },
+  "sub-1792610119989": {
+    "name": "TIS布局10箱全物品单片",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "files": [
+      "TIS_layout_5_chest_hall.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "c04636e2570c23e245f40ff6268c759ea0feb894a4b8631b74bbf9dfa3d4fec2"
+  },
+  "sub-1792610120288": {
+    "name": "全锁无堆叠附魔书 KiKuGie 双箱单片",
+    "category": "非编码存储科技/全物品单片/10箱单片",
+    "files": [
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp",
+      "全锁ab双倍储量五箱无附魔书全物品单片.litematic"
+    ],
+    "sha256": "15318c8f647e8790412104fbc9c245231731d06b4bcfe3fdef64ec654dcffd10"
+  },
+  "sub-1792610120577": {
+    "name": "4箱真全锁单片",
+    "category": "非编码存储科技/全物品单片/8箱单片",
+    "files": [
+      "4箱真全锁单片.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "4b92f47cf2a5a2b4224e7f1edcb1b6ce647ebfcd15cfb53578ff51a1e7b48afc"
+  },
+  "sub-1792610120869": {
+    "name": "8箱少漏斗8gt延迟全物品单片",
+    "category": "非编码存储科技/全物品单片/8箱单片",
+    "files": [
+      "8箱少漏斗8gt延迟 11_hopper_8_item_full_locked_chest_hall.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "5ad50d1529ab08bb0354e1c85cc6d7996635103c6f6f0e84d061e699633042a1"
+  },
+  "sub-1792610121185": {
+    "name": "3种类双箱可访问分类单片",
+    "category": "非编码存储科技/全物品单片/其他单片",
+    "files": [
+      "PyraLeft_6dc_ALL_ACCESSIBLE.litematic",
+      "info.json",
+      "preview.png",
+      "preview.webp",
+      "thumb.webp"
+    ],
+    "sha256": "cd5378a7673248533288b25e1b886cfeb1b760c0ec1c99295dcf07b8fe23a188"
   },
   "sub-1778344851181-487": {
     "name": "金合欢Leo Ui 10箱全物品单片（主动漏斗）",
