@@ -48,6 +48,22 @@
     "sha256": "7f140541717de2302d7487100a7dffdaf565ce687ce26a60e301f4e46a734112"
   },
   {
+    "id": "sub-1792611782831",
+    "name": "6位crain解码车头",
+    "author": "awszqsedxzaw",
+    "tags": [
+      "二进制",
+      "解码器",
+      "1.16+"
+    ],
+    "description": "### 🚀 机器概览（示例）\n- **核心功能**: 适用于编码大宗解码器\n- **适用版本**: 1.16+\n\n### 📖 使用说明\n1. 在非原版特性端使用时，请先测试机器能否正常工作后再进行实装\n2.该解码车头最多拓展到8位",
+    "category": "编码存储科技/解码器/二进制",
+    "preview": "/content/编码存储科技/解码器/二进制/6位crain解码车头/preview.webp",
+    "thumb": "/content/编码存储科技/解码器/二进制/6位crain解码车头/thumb.webp",
+    "filename": "6位crain解码器 by awszqsedxzaw.litematic",
+    "sha256": "ca448c4540faef4d3db20993a4de8590927ec5eb8c7565c4b89e2eef5127add6"
+  },
+  {
     "id": "sub-1778344851083-317",
     "name": "二进制车头（转码器）",
     "author": "in",
